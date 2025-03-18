@@ -1,0 +1,689 @@
+,district_name,cluster_name,village_name,tool,number_of_pieces
+0,Kitagwenda,Muyenga,Muyenga_Central,Secateurs,10
+1,Kitagwenda,Muyenga,Muyenga_TC,Secateurs,15
+2,Kitagwenda,Muyenga,Nganiko_2,Secateurs,15
+3,Kitagwenda,Muyenga,Nganiko_3,Secateurs,15
+4,Kitagwenda,Muyenga,Zanzibar,Secateurs,15
+5,Kitagwenda,Bujumiro,Bujumiro_A,Secateurs,30
+6,Kitagwenda,Bujumiro,Bujumiro_B,Secateurs,20
+7,Kitagwenda,Bujumiro,Kanyamburara,Secateurs,40
+8,Kitagwenda,Bujumiro,Kyarubingo,Secateurs,25
+9,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Secateurs,15
+10,Kitagwenda,Nganiko,Kagorogoro_A,Secateurs,10
+11,Kitagwenda,Nganiko,Kagorogoro_B,Secateurs,10
+12,Kitagwenda,Nganiko,Kahenda,Secateurs,15
+13,Kitagwenda,Nganiko,Kemihoko_A,Secateurs,15
+14,Kitagwenda,Nganiko,Kemihoko_B,Secateurs,10
+15,Kitagwenda,Nganiko,Nganiko_1,Secateurs,15
+16,Kitagwenda,Nganiko,Nganiko_Central,Secateurs,15
+17,Kitagwenda,Nganiko,Nganiko_TC,Secateurs,15
+18,Kitagwenda,Nyakacwamba,Kapapari,Secateurs,25
+19,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Secateurs,25
+20,Kitagwenda,Nyakacwamba,Karubuguma_1,Secateurs,20
+21,Kitagwenda,Nyakacwamba,Karubuguma_2,Secateurs,45
+22,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Secateurs,20
+23,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Secateurs,25
+24,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Secateurs,20
+25,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Secateurs,30
+26,Rakai,Kanoni,Kamuli,Secateurs,20
+27,Rakai,Kanoni,Kanoni_Rakai,Secateurs,40
+28,Rakai,Kanoni,Kikakata,Secateurs,25
+29,Rakai,Kanoni,Mpaama,Secateurs,20
+30,Rakai,Kasensero,Kammengo,Secateurs,20
+31,Rakai,Kasensero,Kisimbanyiriri,Secateurs,30
+32,Rakai,Kasensero,Kitonezi,Secateurs,50
+33,Rakai,Kasensero,Kiwaguzi_A,Secateurs,30
+34,Rakai,Kasensero,Kiwaguzi_B,Secateurs,30
+35,Rakai,Kasensero,Kyaluwakula,Secateurs,20
+36,Rakai,Kasensero,Kyengeza_Rakai,Secateurs,60
+37,Rakai,Kasensero,Mikunyu,Secateurs,30
+38,Rakai,Kasensero,Nabyala,Secateurs,20
+39,Rakai,Kasensero,Nakitokolo,Secateurs,30
+40,Rakai,Kyamakanaga,Kyamakanaga_A,Secateurs,35
+41,Rakai,Kyamakanaga,Kyamakanaga_B,Secateurs,15
+42,Rakai,Kyamakanaga,Nnongo_A,Secateurs,45
+43,Kitagwenda,Muyenga,Muyenga_Central,Gloves,4
+44,Kitagwenda,Muyenga,Muyenga_TC,Gloves,6
+45,Kitagwenda,Muyenga,Nganiko_2,Gloves,6
+46,Kitagwenda,Muyenga,Nganiko_3,Gloves,6
+47,Kitagwenda,Muyenga,Zanzibar,Gloves,6
+48,Kitagwenda,Bujumiro,Bujumiro_A,Gloves,12
+49,Kitagwenda,Bujumiro,Bujumiro_B,Gloves,8
+50,Kitagwenda,Bujumiro,Kanyamburara,Gloves,16
+51,Kitagwenda,Bujumiro,Kyarubingo,Gloves,10
+52,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Gloves,6
+53,Kitagwenda,Nganiko,Kagorogoro_A,Gloves,4
+54,Kitagwenda,Nganiko,Kagorogoro_B,Gloves,4
+55,Kitagwenda,Nganiko,Kahenda,Gloves,6
+56,Kitagwenda,Nganiko,Kemihoko_A,Gloves,6
+57,Kitagwenda,Nganiko,Kemihoko_B,Gloves,4
+58,Kitagwenda,Nganiko,Nganiko_1,Gloves,6
+59,Kitagwenda,Nganiko,Nganiko_Central,Gloves,6
+60,Kitagwenda,Nganiko,Nganiko_TC,Gloves,6
+61,Kitagwenda,Nyakacwamba,Kapapari,Gloves,10
+62,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Gloves,10
+63,Kitagwenda,Nyakacwamba,Karubuguma_1,Gloves,8
+64,Kitagwenda,Nyakacwamba,Karubuguma_2,Gloves,18
+65,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Gloves,8
+66,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Gloves,10
+67,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Gloves,8
+68,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Gloves,12
+69,Rakai,Kanoni,Kamuli,Gloves,8
+70,Rakai,Kanoni,Kanoni_Rakai,Gloves,16
+71,Rakai,Kanoni,Kikakata,Gloves,10
+72,Rakai,Kanoni,Mpaama,Gloves,8
+73,Rakai,Kasensero,Kammengo,Gloves,8
+74,Rakai,Kasensero,Kisimbanyiriri,Gloves,12
+75,Rakai,Kasensero,Kitonezi,Gloves,20
+76,Rakai,Kasensero,Kiwaguzi_A,Gloves,12
+77,Rakai,Kasensero,Kiwaguzi_B,Gloves,12
+78,Rakai,Kasensero,Kyaluwakula,Gloves,8
+79,Rakai,Kasensero,Kyengeza_Rakai,Gloves,24
+80,Rakai,Kasensero,Mikunyu,Gloves,12
+81,Rakai,Kasensero,Nabyala,Gloves,8
+82,Rakai,Kasensero,Nakitokolo,Gloves,12
+83,Rakai,Kyamakanaga,Kyamakanaga_A,Gloves,14
+84,Rakai,Kyamakanaga,Kyamakanaga_B,Gloves,6
+85,Rakai,Kyamakanaga,Nnongo_A,Gloves,18
+86,Kitagwenda,Muyenga,Muyenga_Central,Watering can,10
+87,Kitagwenda,Muyenga,Muyenga_TC,Watering can,15
+88,Kitagwenda,Muyenga,Nganiko_2,Watering can,15
+89,Kitagwenda,Muyenga,Nganiko_3,Watering can,15
+90,Kitagwenda,Muyenga,Zanzibar,Watering can,15
+91,Kitagwenda,Bujumiro,Bujumiro_A,Watering can,30
+92,Kitagwenda,Bujumiro,Bujumiro_B,Watering can,20
+93,Kitagwenda,Bujumiro,Kanyamburara,Watering can,40
+94,Kitagwenda,Bujumiro,Kyarubingo,Watering can,25
+95,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Watering can,15
+96,Kitagwenda,Nganiko,Kagorogoro_A,Watering can,10
+97,Kitagwenda,Nganiko,Kagorogoro_B,Watering can,10
+98,Kitagwenda,Nganiko,Kahenda,Watering can,15
+99,Kitagwenda,Nganiko,Kemihoko_A,Watering can,15
+100,Kitagwenda,Nganiko,Kemihoko_B,Watering can,10
+101,Kitagwenda,Nganiko,Nganiko_1,Watering can,15
+102,Kitagwenda,Nganiko,Nganiko_Central,Watering can,15
+103,Kitagwenda,Nganiko,Nganiko_TC,Watering can,15
+104,Kitagwenda,Nyakacwamba,Kapapari,Watering can,25
+105,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Watering can,25
+106,Kitagwenda,Nyakacwamba,Karubuguma_1,Watering can,20
+107,Kitagwenda,Nyakacwamba,Karubuguma_2,Watering can,45
+108,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Watering can,20
+109,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Watering can,25
+110,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Watering can,20
+111,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Watering can,30
+112,Rakai,Kanoni,Kamuli,Watering can,20
+113,Rakai,Kanoni,Kanoni_Rakai,Watering can,40
+114,Rakai,Kanoni,Kikakata,Watering can,25
+115,Rakai,Kanoni,Mpaama,Watering can,20
+116,Rakai,Kasensero,Kammengo,Watering can,20
+117,Rakai,Kasensero,Kisimbanyiriri,Watering can,30
+118,Rakai,Kasensero,Kitonezi,Watering can,50
+119,Rakai,Kasensero,Kiwaguzi_A,Watering can,30
+120,Rakai,Kasensero,Kiwaguzi_B,Watering can,30
+121,Rakai,Kasensero,Kyaluwakula,Watering can,20
+122,Rakai,Kasensero,Kyengeza_Rakai,Watering can,60
+123,Rakai,Kasensero,Mikunyu,Watering can,30
+124,Rakai,Kasensero,Nabyala,Watering can,20
+125,Rakai,Kasensero,Nakitokolo,Watering can,30
+126,Rakai,Kyamakanaga,Kyamakanaga_A,Watering can,35
+127,Rakai,Kyamakanaga,Kyamakanaga_B,Watering can,15
+128,Rakai,Kyamakanaga,Nnongo_A,Watering can,45
+129,Kitagwenda,Muyenga,Muyenga_Central,Hoes,4
+130,Kitagwenda,Muyenga,Muyenga_TC,Hoes,6
+131,Kitagwenda,Muyenga,Nganiko_2,Hoes,6
+132,Kitagwenda,Muyenga,Nganiko_3,Hoes,6
+133,Kitagwenda,Muyenga,Zanzibar,Hoes,6
+134,Kitagwenda,Bujumiro,Bujumiro_A,Hoes,12
+135,Kitagwenda,Bujumiro,Bujumiro_B,Hoes,8
+136,Kitagwenda,Bujumiro,Kanyamburara,Hoes,16
+137,Kitagwenda,Bujumiro,Kyarubingo,Hoes,10
+138,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Hoes,6
+139,Kitagwenda,Nganiko,Kagorogoro_A,Hoes,4
+140,Kitagwenda,Nganiko,Kagorogoro_B,Hoes,4
+141,Kitagwenda,Nganiko,Kahenda,Hoes,6
+142,Kitagwenda,Nganiko,Kemihoko_A,Hoes,6
+143,Kitagwenda,Nganiko,Kemihoko_B,Hoes,4
+144,Kitagwenda,Nganiko,Nganiko_1,Hoes,6
+145,Kitagwenda,Nganiko,Nganiko_Central,Hoes,6
+146,Kitagwenda,Nganiko,Nganiko_TC,Hoes,6
+147,Kitagwenda,Nyakacwamba,Kapapari,Hoes,10
+148,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Hoes,10
+149,Kitagwenda,Nyakacwamba,Karubuguma_1,Hoes,8
+150,Kitagwenda,Nyakacwamba,Karubuguma_2,Hoes,18
+151,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Hoes,8
+152,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Hoes,10
+153,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Hoes,8
+154,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Hoes,12
+155,Rakai,Kanoni,Kamuli,Hoes,8
+156,Rakai,Kanoni,Kanoni_Rakai,Hoes,16
+157,Rakai,Kanoni,Kikakata,Hoes,10
+158,Rakai,Kanoni,Mpaama,Hoes,8
+159,Rakai,Kasensero,Kammengo,Hoes,8
+160,Rakai,Kasensero,Kisimbanyiriri,Hoes,12
+161,Rakai,Kasensero,Kitonezi,Hoes,20
+162,Rakai,Kasensero,Kiwaguzi_A,Hoes,12
+163,Rakai,Kasensero,Kiwaguzi_B,Hoes,12
+164,Rakai,Kasensero,Kyaluwakula,Hoes,8
+165,Rakai,Kasensero,Kyengeza_Rakai,Hoes,24
+166,Rakai,Kasensero,Mikunyu,Hoes,12
+167,Rakai,Kasensero,Nabyala,Hoes,8
+168,Rakai,Kasensero,Nakitokolo,Hoes,12
+169,Rakai,Kyamakanaga,Kyamakanaga_A,Hoes,14
+170,Rakai,Kyamakanaga,Kyamakanaga_B,Hoes,6
+171,Rakai,Kyamakanaga,Nnongo_A,Hoes,18
+172,Kitagwenda,Muyenga,Muyenga_Central,Pick Axe,4
+173,Kitagwenda,Muyenga,Muyenga_TC,Pick Axe,6
+174,Kitagwenda,Muyenga,Nganiko_2,Pick Axe,6
+175,Kitagwenda,Muyenga,Nganiko_3,Pick Axe,6
+176,Kitagwenda,Muyenga,Zanzibar,Pick Axe,6
+177,Kitagwenda,Bujumiro,Bujumiro_A,Pick Axe,6
+178,Kitagwenda,Bujumiro,Bujumiro_B,Pick Axe,4
+179,Kitagwenda,Bujumiro,Kanyamburara,Pick Axe,8
+180,Kitagwenda,Bujumiro,Kyarubingo,Pick Axe,5
+181,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Pick Axe,3
+182,Kitagwenda,Nganiko,Kagorogoro_A,Pick Axe,4
+183,Kitagwenda,Nganiko,Kagorogoro_B,Pick Axe,4
+184,Kitagwenda,Nganiko,Kahenda,Pick Axe,6
+185,Kitagwenda,Nganiko,Kemihoko_A,Pick Axe,6
+186,Kitagwenda,Nganiko,Kemihoko_B,Pick Axe,4
+187,Kitagwenda,Nganiko,Nganiko_1,Pick Axe,6
+188,Kitagwenda,Nganiko,Nganiko_Central,Pick Axe,6
+189,Kitagwenda,Nganiko,Nganiko_TC,Pick Axe,6
+190,Kitagwenda,Nyakacwamba,Kapapari,Pick Axe,10
+191,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Pick Axe,10
+192,Kitagwenda,Nyakacwamba,Karubuguma_1,Pick Axe,8
+193,Kitagwenda,Nyakacwamba,Karubuguma_2,Pick Axe,18
+194,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Pick Axe,8
+195,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Pick Axe,10
+196,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Pick Axe,8
+197,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Pick Axe,12
+198,Rakai,Kanoni,Kamuli,Pick Axe,4
+199,Rakai,Kanoni,Kanoni_Rakai,Pick Axe,8
+200,Rakai,Kanoni,Kikakata,Pick Axe,5
+201,Rakai,Kanoni,Mpaama,Pick Axe,4
+202,Rakai,Kasensero,Kammengo,Pick Axe,4
+203,Rakai,Kasensero,Kisimbanyiriri,Pick Axe,6
+204,Rakai,Kasensero,Kitonezi,Pick Axe,10
+205,Rakai,Kasensero,Kiwaguzi_A,Pick Axe,6
+206,Rakai,Kasensero,Kiwaguzi_B,Pick Axe,6
+207,Rakai,Kasensero,Kyaluwakula,Pick Axe,4
+208,Rakai,Kasensero,Kyengeza_Rakai,Pick Axe,12
+209,Rakai,Kasensero,Mikunyu,Pick Axe,6
+210,Rakai,Kasensero,Nabyala,Pick Axe,4
+211,Rakai,Kasensero,Nakitokolo,Pick Axe,6
+212,Rakai,Kyamakanaga,Kyamakanaga_A,Pick Axe,7
+213,Rakai,Kyamakanaga,Kyamakanaga_B,Pick Axe,3
+214,Rakai,Kyamakanaga,Nnongo_A,Pick Axe,9
+215,Kitagwenda,Muyenga,Muyenga_Central,Spade,4
+216,Kitagwenda,Muyenga,Muyenga_TC,Spade,6
+217,Kitagwenda,Muyenga,Nganiko_2,Spade,6
+218,Kitagwenda,Muyenga,Nganiko_3,Spade,6
+219,Kitagwenda,Muyenga,Zanzibar,Spade,6
+220,Kitagwenda,Bujumiro,Bujumiro_A,Spade,12
+221,Kitagwenda,Bujumiro,Bujumiro_B,Spade,8
+222,Kitagwenda,Bujumiro,Kanyamburara,Spade,16
+223,Kitagwenda,Bujumiro,Kyarubingo,Spade,10
+224,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Spade,6
+225,Kitagwenda,Nganiko,Kagorogoro_A,Spade,4
+226,Kitagwenda,Nganiko,Kagorogoro_B,Spade,4
+227,Kitagwenda,Nganiko,Kahenda,Spade,6
+228,Kitagwenda,Nganiko,Kemihoko_A,Spade,6
+229,Kitagwenda,Nganiko,Kemihoko_B,Spade,4
+230,Kitagwenda,Nganiko,Nganiko_1,Spade,6
+231,Kitagwenda,Nganiko,Nganiko_Central,Spade,6
+232,Kitagwenda,Nganiko,Nganiko_TC,Spade,6
+233,Kitagwenda,Nyakacwamba,Kapapari,Spade,10
+234,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Spade,10
+235,Kitagwenda,Nyakacwamba,Karubuguma_1,Spade,8
+236,Kitagwenda,Nyakacwamba,Karubuguma_2,Spade,18
+237,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Spade,8
+238,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Spade,10
+239,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Spade,8
+240,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Spade,12
+241,Rakai,Kanoni,Kamuli,Spade,8
+242,Rakai,Kanoni,Kanoni_Rakai,Spade,16
+243,Rakai,Kanoni,Kikakata,Spade,10
+244,Rakai,Kanoni,Mpaama,Spade,8
+245,Rakai,Kasensero,Kammengo,Spade,8
+246,Rakai,Kasensero,Kisimbanyiriri,Spade,12
+247,Rakai,Kasensero,Kitonezi,Spade,20
+248,Rakai,Kasensero,Kiwaguzi_A,Spade,12
+249,Rakai,Kasensero,Kiwaguzi_B,Spade,12
+250,Rakai,Kasensero,Kyaluwakula,Spade,8
+251,Rakai,Kasensero,Kyengeza_Rakai,Spade,24
+252,Rakai,Kasensero,Mikunyu,Spade,12
+253,Rakai,Kasensero,Nabyala,Spade,8
+254,Rakai,Kasensero,Nakitokolo,Spade,12
+255,Rakai,Kyamakanaga,Kyamakanaga_A,Spade,14
+256,Rakai,Kyamakanaga,Kyamakanaga_B,Spade,6
+257,Rakai,Kyamakanaga,Nnongo_A,Spade,18
+258,Kitagwenda,Muyenga,Muyenga_Central,Forked Hoe,2
+259,Kitagwenda,Muyenga,Muyenga_TC,Forked Hoe,3
+260,Kitagwenda,Muyenga,Nganiko_2,Forked Hoe,3
+261,Kitagwenda,Muyenga,Nganiko_3,Forked Hoe,3
+262,Kitagwenda,Muyenga,Zanzibar,Forked Hoe,3
+263,Kitagwenda,Bujumiro,Bujumiro_A,Forked Hoe,6
+264,Kitagwenda,Bujumiro,Bujumiro_B,Forked Hoe,4
+265,Kitagwenda,Bujumiro,Kanyamburara,Forked Hoe,8
+266,Kitagwenda,Bujumiro,Kyarubingo,Forked Hoe,5
+267,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Forked Hoe,3
+268,Kitagwenda,Nganiko,Kagorogoro_A,Forked Hoe,2
+269,Kitagwenda,Nganiko,Kagorogoro_B,Forked Hoe,2
+270,Kitagwenda,Nganiko,Kahenda,Forked Hoe,3
+271,Kitagwenda,Nganiko,Kemihoko_A,Forked Hoe,3
+272,Kitagwenda,Nganiko,Kemihoko_B,Forked Hoe,2
+273,Kitagwenda,Nganiko,Nganiko_1,Forked Hoe,3
+274,Kitagwenda,Nganiko,Nganiko_Central,Forked Hoe,3
+275,Kitagwenda,Nganiko,Nganiko_TC,Forked Hoe,3
+276,Kitagwenda,Nyakacwamba,Kapapari,Forked Hoe,5
+277,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Forked Hoe,5
+278,Kitagwenda,Nyakacwamba,Karubuguma_1,Forked Hoe,4
+279,Kitagwenda,Nyakacwamba,Karubuguma_2,Forked Hoe,9
+280,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Forked Hoe,4
+281,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Forked Hoe,5
+282,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Forked Hoe,4
+283,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Forked Hoe,6
+284,Rakai,Kanoni,Kamuli,Forked Hoe,4
+285,Rakai,Kanoni,Kanoni_Rakai,Forked Hoe,8
+286,Rakai,Kanoni,Kikakata,Forked Hoe,5
+287,Rakai,Kanoni,Mpaama,Forked Hoe,4
+288,Rakai,Kasensero,Kammengo,Forked Hoe,4
+289,Rakai,Kasensero,Kisimbanyiriri,Forked Hoe,6
+290,Rakai,Kasensero,Kitonezi,Forked Hoe,10
+291,Rakai,Kasensero,Kiwaguzi_A,Forked Hoe,6
+292,Rakai,Kasensero,Kiwaguzi_B,Forked Hoe,6
+293,Rakai,Kasensero,Kyaluwakula,Forked Hoe,4
+294,Rakai,Kasensero,Kyengeza_Rakai,Forked Hoe,12
+295,Rakai,Kasensero,Mikunyu,Forked Hoe,6
+296,Rakai,Kasensero,Nabyala,Forked Hoe,4
+297,Rakai,Kasensero,Nakitokolo,Forked Hoe,6
+298,Rakai,Kyamakanaga,Kyamakanaga_A,Forked Hoe,7
+299,Rakai,Kyamakanaga,Kyamakanaga_B,Forked Hoe,3
+300,Rakai,Kyamakanaga,Nnongo_A,Forked Hoe,9
+301,Kitagwenda,Muyenga,Muyenga_Central,Jerrycans,4
+302,Kitagwenda,Muyenga,Muyenga_TC,Jerrycans,6
+303,Kitagwenda,Muyenga,Nganiko_2,Jerrycans,6
+304,Kitagwenda,Muyenga,Nganiko_3,Jerrycans,6
+305,Kitagwenda,Muyenga,Zanzibar,Jerrycans,6
+306,Kitagwenda,Bujumiro,Bujumiro_A,Jerrycans,12
+307,Kitagwenda,Bujumiro,Bujumiro_B,Jerrycans,8
+308,Kitagwenda,Bujumiro,Kanyamburara,Jerrycans,16
+309,Kitagwenda,Bujumiro,Kyarubingo,Jerrycans,10
+310,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Jerrycans,6
+311,Kitagwenda,Nganiko,Kagorogoro_A,Jerrycans,4
+312,Kitagwenda,Nganiko,Kagorogoro_B,Jerrycans,4
+313,Kitagwenda,Nganiko,Kahenda,Jerrycans,6
+314,Kitagwenda,Nganiko,Kemihoko_A,Jerrycans,6
+315,Kitagwenda,Nganiko,Kemihoko_B,Jerrycans,4
+316,Kitagwenda,Nganiko,Nganiko_1,Jerrycans,6
+317,Kitagwenda,Nganiko,Nganiko_Central,Jerrycans,6
+318,Kitagwenda,Nganiko,Nganiko_TC,Jerrycans,6
+319,Kitagwenda,Nyakacwamba,Kapapari,Jerrycans,10
+320,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Jerrycans,10
+321,Kitagwenda,Nyakacwamba,Karubuguma_1,Jerrycans,8
+322,Kitagwenda,Nyakacwamba,Karubuguma_2,Jerrycans,18
+323,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Jerrycans,8
+324,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Jerrycans,10
+325,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Jerrycans,8
+326,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Jerrycans,12
+327,Rakai,Kanoni,Kamuli,Jerrycans,8
+328,Rakai,Kanoni,Kanoni_Rakai,Jerrycans,16
+329,Rakai,Kanoni,Kikakata,Jerrycans,10
+330,Rakai,Kanoni,Mpaama,Jerrycans,8
+331,Rakai,Kasensero,Kammengo,Jerrycans,8
+332,Rakai,Kasensero,Kisimbanyiriri,Jerrycans,12
+333,Rakai,Kasensero,Kitonezi,Jerrycans,20
+334,Rakai,Kasensero,Kiwaguzi_A,Jerrycans,12
+335,Rakai,Kasensero,Kiwaguzi_B,Jerrycans,12
+336,Rakai,Kasensero,Kyaluwakula,Jerrycans,8
+337,Rakai,Kasensero,Kyengeza_Rakai,Jerrycans,24
+338,Rakai,Kasensero,Mikunyu,Jerrycans,12
+339,Rakai,Kasensero,Nabyala,Jerrycans,8
+340,Rakai,Kasensero,Nakitokolo,Jerrycans,12
+341,Rakai,Kyamakanaga,Kyamakanaga_A,Jerrycans,14
+342,Rakai,Kyamakanaga,Kyamakanaga_B,Jerrycans,6
+343,Rakai,Kyamakanaga,Nnongo_A,Jerrycans,18
+344,Kitagwenda,Muyenga,Muyenga_Central,Spray Pumps,4
+345,Kitagwenda,Muyenga,Muyenga_TC,Spray Pumps,6
+346,Kitagwenda,Muyenga,Nganiko_2,Spray Pumps,6
+347,Kitagwenda,Muyenga,Nganiko_3,Spray Pumps,6
+348,Kitagwenda,Muyenga,Zanzibar,Spray Pumps,6
+349,Kitagwenda,Bujumiro,Bujumiro_A,Spray Pumps,6
+350,Kitagwenda,Bujumiro,Bujumiro_B,Spray Pumps,4
+351,Kitagwenda,Bujumiro,Kanyamburara,Spray Pumps,8
+352,Kitagwenda,Bujumiro,Kyarubingo,Spray Pumps,5
+353,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Spray Pumps,3
+354,Kitagwenda,Nganiko,Kagorogoro_A,Spray Pumps,4
+355,Kitagwenda,Nganiko,Kagorogoro_B,Spray Pumps,4
+356,Kitagwenda,Nganiko,Kahenda,Spray Pumps,6
+357,Kitagwenda,Nganiko,Kemihoko_A,Spray Pumps,6
+358,Kitagwenda,Nganiko,Kemihoko_B,Spray Pumps,4
+359,Kitagwenda,Nganiko,Nganiko_1,Spray Pumps,6
+360,Kitagwenda,Nganiko,Nganiko_Central,Spray Pumps,6
+361,Kitagwenda,Nganiko,Nganiko_TC,Spray Pumps,6
+362,Kitagwenda,Nyakacwamba,Kapapari,Spray Pumps,10
+363,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Spray Pumps,10
+364,Kitagwenda,Nyakacwamba,Karubuguma_1,Spray Pumps,8
+365,Kitagwenda,Nyakacwamba,Karubuguma_2,Spray Pumps,18
+366,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Spray Pumps,8
+367,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Spray Pumps,10
+368,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Spray Pumps,8
+369,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Spray Pumps,12
+370,Rakai,Kanoni,Kamuli,Spray Pumps,4
+371,Rakai,Kanoni,Kanoni_Rakai,Spray Pumps,8
+372,Rakai,Kanoni,Kikakata,Spray Pumps,5
+373,Rakai,Kanoni,Mpaama,Spray Pumps,4
+374,Rakai,Kasensero,Kammengo,Spray Pumps,4
+375,Rakai,Kasensero,Kisimbanyiriri,Spray Pumps,6
+376,Rakai,Kasensero,Kitonezi,Spray Pumps,10
+377,Rakai,Kasensero,Kiwaguzi_A,Spray Pumps,6
+378,Rakai,Kasensero,Kiwaguzi_B,Spray Pumps,6
+379,Rakai,Kasensero,Kyaluwakula,Spray Pumps,4
+380,Rakai,Kasensero,Kyengeza_Rakai,Spray Pumps,12
+381,Rakai,Kasensero,Mikunyu,Spray Pumps,6
+382,Rakai,Kasensero,Nabyala,Spray Pumps,4
+383,Rakai,Kasensero,Nakitokolo,Spray Pumps,6
+384,Rakai,Kyamakanaga,Kyamakanaga_A,Spray Pumps,7
+385,Rakai,Kyamakanaga,Kyamakanaga_B,Spray Pumps,3
+386,Rakai,Kyamakanaga,Nnongo_A,Spray Pumps,9
+387,Kitagwenda,Muyenga,Muyenga_Central,Tarpaulin,20
+388,Kitagwenda,Muyenga,Muyenga_TC,Tarpaulin,30
+389,Kitagwenda,Muyenga,Nganiko_2,Tarpaulin,30
+390,Kitagwenda,Muyenga,Nganiko_3,Tarpaulin,30
+391,Kitagwenda,Muyenga,Zanzibar,Tarpaulin,30
+392,Kitagwenda,Bujumiro,Bujumiro_A,Tarpaulin,60
+393,Kitagwenda,Bujumiro,Bujumiro_B,Tarpaulin,40
+394,Kitagwenda,Bujumiro,Kanyamburara,Tarpaulin,80
+395,Kitagwenda,Bujumiro,Kyarubingo,Tarpaulin,50
+396,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Tarpaulin,30
+397,Kitagwenda,Nganiko,Kagorogoro_A,Tarpaulin,20
+398,Kitagwenda,Nganiko,Kagorogoro_B,Tarpaulin,20
+399,Kitagwenda,Nganiko,Kahenda,Tarpaulin,30
+400,Kitagwenda,Nganiko,Kemihoko_A,Tarpaulin,30
+401,Kitagwenda,Nganiko,Kemihoko_B,Tarpaulin,20
+402,Kitagwenda,Nganiko,Nganiko_1,Tarpaulin,30
+403,Kitagwenda,Nganiko,Nganiko_Central,Tarpaulin,30
+404,Kitagwenda,Nganiko,Nganiko_TC,Tarpaulin,30
+405,Kitagwenda,Nyakacwamba,Kapapari,Tarpaulin,50
+406,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Tarpaulin,50
+407,Kitagwenda,Nyakacwamba,Karubuguma_1,Tarpaulin,40
+408,Kitagwenda,Nyakacwamba,Karubuguma_2,Tarpaulin,90
+409,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Tarpaulin,40
+410,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Tarpaulin,50
+411,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Tarpaulin,40
+412,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Tarpaulin,60
+413,Rakai,Kanoni,Kamuli,Tarpaulin,40
+414,Rakai,Kanoni,Kanoni_Rakai,Tarpaulin,80
+415,Rakai,Kanoni,Kikakata,Tarpaulin,50
+416,Rakai,Kanoni,Mpaama,Tarpaulin,40
+417,Rakai,Kasensero,Kammengo,Tarpaulin,40
+418,Rakai,Kasensero,Kisimbanyiriri,Tarpaulin,60
+419,Rakai,Kasensero,Kitonezi,Tarpaulin,100
+420,Rakai,Kasensero,Kiwaguzi_A,Tarpaulin,60
+421,Rakai,Kasensero,Kiwaguzi_B,Tarpaulin,60
+422,Rakai,Kasensero,Kyaluwakula,Tarpaulin,40
+423,Rakai,Kasensero,Kyengeza_Rakai,Tarpaulin,120
+424,Rakai,Kasensero,Mikunyu,Tarpaulin,60
+425,Rakai,Kasensero,Nabyala,Tarpaulin,40
+426,Rakai,Kasensero,Nakitokolo,Tarpaulin,60
+427,Rakai,Kyamakanaga,Kyamakanaga_A,Tarpaulin,70
+428,Rakai,Kyamakanaga,Kyamakanaga_B,Tarpaulin,30
+429,Rakai,Kyamakanaga,Nnongo_A,Tarpaulin,90
+430,Kitagwenda,Muyenga,Muyenga_Central,Pruning saw,20
+431,Kitagwenda,Muyenga,Muyenga_TC,Pruning saw,30
+432,Kitagwenda,Muyenga,Nganiko_2,Pruning saw,30
+433,Kitagwenda,Muyenga,Nganiko_3,Pruning saw,30
+434,Kitagwenda,Muyenga,Zanzibar,Pruning saw,30
+435,Kitagwenda,Bujumiro,Bujumiro_A,Pruning saw,60
+436,Kitagwenda,Bujumiro,Bujumiro_B,Pruning saw,40
+437,Kitagwenda,Bujumiro,Kanyamburara,Pruning saw,80
+438,Kitagwenda,Bujumiro,Kyarubingo,Pruning saw,50
+439,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Pruning saw,30
+440,Kitagwenda,Nganiko,Kagorogoro_A,Pruning saw,20
+441,Kitagwenda,Nganiko,Kagorogoro_B,Pruning saw,20
+442,Kitagwenda,Nganiko,Kahenda,Pruning saw,30
+443,Kitagwenda,Nganiko,Kemihoko_A,Pruning saw,30
+444,Kitagwenda,Nganiko,Kemihoko_B,Pruning saw,20
+445,Kitagwenda,Nganiko,Nganiko_1,Pruning saw,30
+446,Kitagwenda,Nganiko,Nganiko_Central,Pruning saw,30
+447,Kitagwenda,Nganiko,Nganiko_TC,Pruning saw,30
+448,Kitagwenda,Nyakacwamba,Kapapari,Pruning saw,50
+449,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Pruning saw,50
+450,Kitagwenda,Nyakacwamba,Karubuguma_1,Pruning saw,40
+451,Kitagwenda,Nyakacwamba,Karubuguma_2,Pruning saw,90
+452,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Pruning saw,40
+453,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Pruning saw,50
+454,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Pruning saw,40
+455,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Pruning saw,60
+456,Rakai,Kanoni,Kamuli,Pruning saw,40
+457,Rakai,Kanoni,Kanoni_Rakai,Pruning saw,80
+458,Rakai,Kanoni,Kikakata,Pruning saw,50
+459,Rakai,Kanoni,Mpaama,Pruning saw,40
+460,Rakai,Kasensero,Kammengo,Pruning saw,40
+461,Rakai,Kasensero,Kisimbanyiriri,Pruning saw,60
+462,Rakai,Kasensero,Kitonezi,Pruning saw,100
+463,Rakai,Kasensero,Kiwaguzi_A,Pruning saw,60
+464,Rakai,Kasensero,Kiwaguzi_B,Pruning saw,60
+465,Rakai,Kasensero,Kyaluwakula,Pruning saw,40
+466,Rakai,Kasensero,Kyengeza_Rakai,Pruning saw,120
+467,Rakai,Kasensero,Mikunyu,Pruning saw,60
+468,Rakai,Kasensero,Nabyala,Pruning saw,40
+469,Rakai,Kasensero,Nakitokolo,Pruning saw,60
+470,Rakai,Kyamakanaga,Kyamakanaga_A,Pruning saw,70
+471,Rakai,Kyamakanaga,Kyamakanaga_B,Pruning saw,30
+472,Rakai,Kyamakanaga,Nnongo_A,Pruning saw,90
+473,Kitagwenda,Muyenga,Muyenga_Central,Plastic Drums,2
+474,Kitagwenda,Muyenga,Muyenga_TC,Plastic Drums,3
+475,Kitagwenda,Muyenga,Nganiko_2,Plastic Drums,3
+476,Kitagwenda,Muyenga,Nganiko_3,Plastic Drums,3
+477,Kitagwenda,Muyenga,Zanzibar,Plastic Drums,3
+478,Kitagwenda,Bujumiro,Bujumiro_A,Plastic Drums,6
+479,Kitagwenda,Bujumiro,Bujumiro_B,Plastic Drums,4
+480,Kitagwenda,Bujumiro,Kanyamburara,Plastic Drums,8
+481,Kitagwenda,Bujumiro,Kyarubingo,Plastic Drums,5
+482,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Plastic Drums,3
+483,Kitagwenda,Nganiko,Kagorogoro_A,Plastic Drums,2
+484,Kitagwenda,Nganiko,Kagorogoro_B,Plastic Drums,2
+485,Kitagwenda,Nganiko,Kahenda,Plastic Drums,3
+486,Kitagwenda,Nganiko,Kemihoko_A,Plastic Drums,3
+487,Kitagwenda,Nganiko,Kemihoko_B,Plastic Drums,2
+488,Kitagwenda,Nganiko,Nganiko_1,Plastic Drums,3
+489,Kitagwenda,Nganiko,Nganiko_Central,Plastic Drums,3
+490,Kitagwenda,Nganiko,Nganiko_TC,Plastic Drums,3
+491,Kitagwenda,Nyakacwamba,Kapapari,Plastic Drums,5
+492,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Plastic Drums,5
+493,Kitagwenda,Nyakacwamba,Karubuguma_1,Plastic Drums,4
+494,Kitagwenda,Nyakacwamba,Karubuguma_2,Plastic Drums,9
+495,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Plastic Drums,4
+496,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Plastic Drums,5
+497,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Plastic Drums,4
+498,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Plastic Drums,6
+499,Rakai,Kanoni,Kamuli,Plastic Drums,4
+500,Rakai,Kanoni,Kanoni_Rakai,Plastic Drums,8
+501,Rakai,Kanoni,Kikakata,Plastic Drums,5
+502,Rakai,Kanoni,Mpaama,Plastic Drums,4
+503,Rakai,Kasensero,Kammengo,Plastic Drums,4
+504,Rakai,Kasensero,Kisimbanyiriri,Plastic Drums,6
+505,Rakai,Kasensero,Kitonezi,Plastic Drums,10
+506,Rakai,Kasensero,Kiwaguzi_A,Plastic Drums,6
+507,Rakai,Kasensero,Kiwaguzi_B,Plastic Drums,6
+508,Rakai,Kasensero,Kyaluwakula,Plastic Drums,4
+509,Rakai,Kasensero,Kyengeza_Rakai,Plastic Drums,12
+510,Rakai,Kasensero,Mikunyu,Plastic Drums,6
+511,Rakai,Kasensero,Nabyala,Plastic Drums,4
+512,Rakai,Kasensero,Nakitokolo,Plastic Drums,6
+513,Rakai,Kyamakanaga,Kyamakanaga_A,Plastic Drums,7
+514,Rakai,Kyamakanaga,Kyamakanaga_B,Plastic Drums,3
+515,Rakai,Kyamakanaga,Nnongo_A,Plastic Drums,9
+516,Kitagwenda,Muyenga,Muyenga_Central,Compound Sacks,2
+517,Kitagwenda,Muyenga,Muyenga_TC,Compound Sacks,3
+518,Kitagwenda,Muyenga,Nganiko_2,Compound Sacks,3
+519,Kitagwenda,Muyenga,Nganiko_3,Compound Sacks,3
+520,Kitagwenda,Muyenga,Zanzibar,Compound Sacks,3
+521,Kitagwenda,Bujumiro,Bujumiro_A,Compound Sacks,6
+522,Kitagwenda,Bujumiro,Bujumiro_B,Compound Sacks,4
+523,Kitagwenda,Bujumiro,Kanyamburara,Compound Sacks,8
+524,Kitagwenda,Bujumiro,Kyarubingo,Compound Sacks,5
+525,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Compound Sacks,3
+526,Kitagwenda,Nganiko,Kagorogoro_A,Compound Sacks,2
+527,Kitagwenda,Nganiko,Kagorogoro_B,Compound Sacks,2
+528,Kitagwenda,Nganiko,Kahenda,Compound Sacks,3
+529,Kitagwenda,Nganiko,Kemihoko_A,Compound Sacks,3
+530,Kitagwenda,Nganiko,Kemihoko_B,Compound Sacks,2
+531,Kitagwenda,Nganiko,Nganiko_1,Compound Sacks,3
+532,Kitagwenda,Nganiko,Nganiko_Central,Compound Sacks,3
+533,Kitagwenda,Nganiko,Nganiko_TC,Compound Sacks,3
+534,Kitagwenda,Nyakacwamba,Kapapari,Compound Sacks,5
+535,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Compound Sacks,5
+536,Kitagwenda,Nyakacwamba,Karubuguma_1,Compound Sacks,4
+537,Kitagwenda,Nyakacwamba,Karubuguma_2,Compound Sacks,9
+538,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Compound Sacks,4
+539,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Compound Sacks,5
+540,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Compound Sacks,4
+541,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Compound Sacks,6
+542,Rakai,Kanoni,Kamuli,Compound Sacks,4
+543,Rakai,Kanoni,Kanoni_Rakai,Compound Sacks,8
+544,Rakai,Kanoni,Kikakata,Compound Sacks,5
+545,Rakai,Kanoni,Mpaama,Compound Sacks,4
+546,Rakai,Kasensero,Kammengo,Compound Sacks,4
+547,Rakai,Kasensero,Kisimbanyiriri,Compound Sacks,6
+548,Rakai,Kasensero,Kitonezi,Compound Sacks,10
+549,Rakai,Kasensero,Kiwaguzi_A,Compound Sacks,6
+550,Rakai,Kasensero,Kiwaguzi_B,Compound Sacks,6
+551,Rakai,Kasensero,Kyaluwakula,Compound Sacks,4
+552,Rakai,Kasensero,Kyengeza_Rakai,Compound Sacks,12
+553,Rakai,Kasensero,Mikunyu,Compound Sacks,6
+554,Rakai,Kasensero,Nabyala,Compound Sacks,4
+555,Rakai,Kasensero,Nakitokolo,Compound Sacks,6
+556,Rakai,Kyamakanaga,Kyamakanaga_A,Compound Sacks,7
+557,Rakai,Kyamakanaga,Kyamakanaga_B,Compound Sacks,3
+558,Rakai,Kyamakanaga,Nnongo_A,Compound Sacks,9
+559,Kitagwenda,Muyenga,Muyenga_Central,Rope,2
+560,Kitagwenda,Muyenga,Muyenga_TC,Rope,0
+561,Kitagwenda,Muyenga,Nganiko_2,Rope,0
+562,Kitagwenda,Muyenga,Nganiko_3,Rope,0
+563,Kitagwenda,Muyenga,Zanzibar,Rope,0
+564,Kitagwenda,Bujumiro,Bujumiro_A,Rope,2
+565,Kitagwenda,Bujumiro,Bujumiro_B,Rope,0
+566,Kitagwenda,Bujumiro,Kanyamburara,Rope,0
+567,Kitagwenda,Bujumiro,Kyarubingo,Rope,0
+568,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Rope,0
+569,Kitagwenda,Nganiko,Kagorogoro_A,Rope,2
+570,Kitagwenda,Nganiko,Kagorogoro_B,Rope,0
+571,Kitagwenda,Nganiko,Kahenda,Rope,0
+572,Kitagwenda,Nganiko,Kemihoko_A,Rope,0
+573,Kitagwenda,Nganiko,Kemihoko_B,Rope,0
+574,Kitagwenda,Nganiko,Nganiko_1,Rope,0
+575,Kitagwenda,Nganiko,Nganiko_Central,Rope,0
+576,Kitagwenda,Nganiko,Nganiko_TC,Rope,0
+577,Kitagwenda,Nyakacwamba,Kapapari,Rope,2
+578,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Rope,0
+579,Kitagwenda,Nyakacwamba,Karubuguma_1,Rope,0
+580,Kitagwenda,Nyakacwamba,Karubuguma_2,Rope,0
+581,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Rope,0
+582,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Rope,0
+583,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Rope,0
+584,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Rope,0
+585,Rakai,Kanoni,Kamuli,Rope,2
+586,Rakai,Kanoni,Kanoni_Rakai,Rope,0
+587,Rakai,Kanoni,Kikakata,Rope,0
+588,Rakai,Kanoni,Mpaama,Rope,0
+589,Rakai,Kasensero,Kammengo,Rope,2
+590,Rakai,Kasensero,Kisimbanyiriri,Rope,0
+591,Rakai,Kasensero,Kitonezi,Rope,0
+592,Rakai,Kasensero,Kiwaguzi_A,Rope,0
+593,Rakai,Kasensero,Kiwaguzi_B,Rope,0
+594,Rakai,Kasensero,Kyaluwakula,Rope,0
+595,Rakai,Kasensero,Kyengeza_Rakai,Rope,0
+596,Rakai,Kasensero,Mikunyu,Rope,0
+597,Rakai,Kasensero,Nabyala,Rope,0
+598,Rakai,Kasensero,Nakitokolo,Rope,0
+599,Rakai,Kyamakanaga,Kyamakanaga_A,Rope,2
+600,Rakai,Kyamakanaga,Kyamakanaga_B,Rope,0
+601,Rakai,Kyamakanaga,Nnongo_A,Rope,0
+602,Kitagwenda,Muyenga,Muyenga_Central,Filters,2
+603,Kitagwenda,Muyenga,Muyenga_TC,Filters,3
+604,Kitagwenda,Muyenga,Nganiko_2,Filters,3
+605,Kitagwenda,Muyenga,Nganiko_3,Filters,3
+606,Kitagwenda,Muyenga,Zanzibar,Filters,3
+607,Kitagwenda,Bujumiro,Bujumiro_A,Filters,6
+608,Kitagwenda,Bujumiro,Bujumiro_B,Filters,4
+609,Kitagwenda,Bujumiro,Kanyamburara,Filters,8
+610,Kitagwenda,Bujumiro,Kyarubingo,Filters,5
+611,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Filters,3
+612,Kitagwenda,Nganiko,Kagorogoro_A,Filters,2
+613,Kitagwenda,Nganiko,Kagorogoro_B,Filters,2
+614,Kitagwenda,Nganiko,Kahenda,Filters,3
+615,Kitagwenda,Nganiko,Kemihoko_A,Filters,3
+616,Kitagwenda,Nganiko,Kemihoko_B,Filters,2
+617,Kitagwenda,Nganiko,Nganiko_1,Filters,3
+618,Kitagwenda,Nganiko,Nganiko_Central,Filters,3
+619,Kitagwenda,Nganiko,Nganiko_TC,Filters,3
+620,Kitagwenda,Nyakacwamba,Kapapari,Filters,5
+621,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Filters,5
+622,Kitagwenda,Nyakacwamba,Karubuguma_1,Filters,4
+623,Kitagwenda,Nyakacwamba,Karubuguma_2,Filters,9
+624,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Filters,4
+625,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Filters,5
+626,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Filters,4
+627,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Filters,6
+628,Rakai,Kanoni,Kamuli,Filters,4
+629,Rakai,Kanoni,Kanoni_Rakai,Filters,8
+630,Rakai,Kanoni,Kikakata,Filters,5
+631,Rakai,Kanoni,Mpaama,Filters,4
+632,Rakai,Kasensero,Kammengo,Filters,4
+633,Rakai,Kasensero,Kisimbanyiriri,Filters,6
+634,Rakai,Kasensero,Kitonezi,Filters,10
+635,Rakai,Kasensero,Kiwaguzi_A,Filters,6
+636,Rakai,Kasensero,Kiwaguzi_B,Filters,6
+637,Rakai,Kasensero,Kyaluwakula,Filters,4
+638,Rakai,Kasensero,Kyengeza_Rakai,Filters,12
+639,Rakai,Kasensero,Mikunyu,Filters,6
+640,Rakai,Kasensero,Nabyala,Filters,4
+641,Rakai,Kasensero,Nakitokolo,Filters,6
+642,Rakai,Kyamakanaga,Kyamakanaga_A,Filters,7
+643,Rakai,Kyamakanaga,Kyamakanaga_B,Filters,3
+644,Rakai,Kyamakanaga,Nnongo_A,Filters,9
+645,Kitagwenda,Muyenga,Muyenga_Central,Mortar and Pestle,2
+646,Kitagwenda,Muyenga,Muyenga_TC,Mortar and Pestle,3
+647,Kitagwenda,Muyenga,Nganiko_2,Mortar and Pestle,3
+648,Kitagwenda,Muyenga,Nganiko_3,Mortar and Pestle,3
+649,Kitagwenda,Muyenga,Zanzibar,Mortar and Pestle,3
+650,Kitagwenda,Bujumiro,Bujumiro_A,Mortar and Pestle,6
+651,Kitagwenda,Bujumiro,Bujumiro_B,Mortar and Pestle,4
+652,Kitagwenda,Bujumiro,Kanyamburara,Mortar and Pestle,8
+653,Kitagwenda,Bujumiro,Kyarubingo,Mortar and Pestle,5
+654,Kitagwenda,Bujumiro,Nyabwina_Buhanda,Mortar and Pestle,3
+655,Kitagwenda,Nganiko,Kagorogoro_A,Mortar and Pestle,2
+656,Kitagwenda,Nganiko,Kagorogoro_B,Mortar and Pestle,2
+657,Kitagwenda,Nganiko,Kahenda,Mortar and Pestle,3
+658,Kitagwenda,Nganiko,Kemihoko_A,Mortar and Pestle,3
+659,Kitagwenda,Nganiko,Kemihoko_B,Mortar and Pestle,2
+660,Kitagwenda,Nganiko,Nganiko_1,Mortar and Pestle,3
+661,Kitagwenda,Nganiko,Nganiko_Central,Mortar and Pestle,3
+662,Kitagwenda,Nganiko,Nganiko_TC,Mortar and Pestle,3
+663,Kitagwenda,Nyakacwamba,Kapapari,Mortar and Pestle,5
+664,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,Mortar and Pestle,5
+665,Kitagwenda,Nyakacwamba,Karubuguma_1,Mortar and Pestle,4
+666,Kitagwenda,Nyakacwamba,Karubuguma_2,Mortar and Pestle,9
+667,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,Mortar and Pestle,4
+668,Kitagwenda,Nyakacwamba,Nyakacwamba_1,Mortar and Pestle,5
+669,Kitagwenda,Nyakacwamba,Nyakacwamba_2,Mortar and Pestle,4
+670,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Mortar and Pestle,6
+671,Rakai,Kanoni,Kamuli,Mortar and Pestle,4
+672,Rakai,Kanoni,Kanoni_Rakai,Mortar and Pestle,8
+673,Rakai,Kanoni,Kikakata,Mortar and Pestle,5
+674,Rakai,Kanoni,Mpaama,Mortar and Pestle,4
+675,Rakai,Kasensero,Kammengo,Mortar and Pestle,4
+676,Rakai,Kasensero,Kisimbanyiriri,Mortar and Pestle,6
+677,Rakai,Kasensero,Kitonezi,Mortar and Pestle,10
+678,Rakai,Kasensero,Kiwaguzi_A,Mortar and Pestle,6
+679,Rakai,Kasensero,Kiwaguzi_B,Mortar and Pestle,6
+680,Rakai,Kasensero,Kyaluwakula,Mortar and Pestle,4
+681,Rakai,Kasensero,Kyengeza_Rakai,Mortar and Pestle,12
+682,Rakai,Kasensero,Mikunyu,Mortar and Pestle,6
+683,Rakai,Kasensero,Nabyala,Mortar and Pestle,4
+684,Rakai,Kasensero,Nakitokolo,Mortar and Pestle,6
+685,Rakai,Kyamakanaga,Kyamakanaga_A,Mortar and Pestle,7
+686,Rakai,Kyamakanaga,Kyamakanaga_B,Mortar and Pestle,3
+687,Rakai,Kyamakanaga,Nnongo_A,Mortar and Pestle,9

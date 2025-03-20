@@ -116,7 +116,7 @@ Kitagwenda,Muyenga,Nganiko_2,Spade,6
 Kitagwenda,Muyenga,Nganiko_2,Spray Pumps,6
 Kitagwenda,Muyenga,Nganiko_2,Tarpaulin,30
 Kitagwenda,Muyenga,Nganiko_2,Watering can,15
-Kitagwenda,Muyenga,Nganiko_3,Compound Sacks,1
+Kitagwenda,Muyenga,Nganiko_3,Compound Sacks,3
 Kitagwenda,Muyenga,Nganiko_3,Filters,3
 Kitagwenda,Muyenga,Nganiko_3,Forked Hoe,3
 Kitagwenda,Muyenga,Nganiko_3,Gloves,6
@@ -381,6 +381,7 @@ Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,Watering can,30
 Rakai,Kanoni,Kamuli,Compound Sacks,4
 Rakai,Kanoni,Kamuli,Filters,4
 Rakai,Kanoni,Kamuli,Forked Hoe,4
+Rakai,Kanoni,Kamuli,Gloves,8
 Rakai,Kanoni,Kamuli,Hoes,8
 Rakai,Kanoni,Kamuli,Jerrycans,8
 Rakai,Kanoni,Kamuli,Pick Axe,4
@@ -397,7 +398,8 @@ Rakai,Kanoni,Kanoni_Rakai,Pick Axe,8
 Rakai,Kanoni,Kanoni_Rakai,Plastic Drums,8
 Rakai,Kanoni,Kanoni_Rakai,Spade,16
 Rakai,Kanoni,Kanoni_Rakai,Spray Pumps,8
-Rakai,Kanoni,Kanoni_Rakai,Watering can,8
+Rakai,Kanoni,Kanoni_Rakai,Tarpaulin,80
+Rakai,Kanoni,Kanoni_Rakai,Watering can,40
 Rakai,Kanoni,Kikakata,Compound Sacks,5
 Rakai,Kanoni,Kikakata,Filters,5
 Rakai,Kanoni,Kikakata,Forked Hoe,5
@@ -408,6 +410,7 @@ Rakai,Kanoni,Kikakata,Pick Axe,5
 Rakai,Kanoni,Kikakata,Plastic Drums,5
 Rakai,Kanoni,Kikakata,Spade,10
 Rakai,Kanoni,Kikakata,Spray Pumps,5
+Rakai,Kanoni,Kikakata,Tarpaulin,50
 Rakai,Kanoni,Kikakata,Watering can,25
 Rakai,Kanoni,Mpaama,Compound Sacks,4
 Rakai,Kanoni,Mpaama,Filters,4
@@ -419,10 +422,12 @@ Rakai,Kanoni,Mpaama,Pick Axe,4
 Rakai,Kanoni,Mpaama,Plastic Drums,4
 Rakai,Kanoni,Mpaama,Spade,8
 Rakai,Kanoni,Mpaama,Spray Pumps,4
+Rakai,Kanoni,Mpaama,Tarpaulin,40
 Rakai,Kanoni,Mpaama,Watering can,20
 Rakai,Kasensero,Kammengo,Compound Sacks,4
 Rakai,Kasensero,Kammengo,Filters,4
 Rakai,Kasensero,Kammengo,Forked Hoe,4
+Rakai,Kasensero,Kammengo,Gloves,8
 Rakai,Kasensero,Kammengo,Hoes,8
 Rakai,Kasensero,Kammengo,Jerrycans,8
 Rakai,Kasensero,Kammengo,Mortar and Pestle,4
@@ -441,6 +446,7 @@ Rakai,Kasensero,Kisimbanyiriri,Pick Axe,6
 Rakai,Kasensero,Kisimbanyiriri,Plastic Drums,6
 Rakai,Kasensero,Kisimbanyiriri,Spade,12
 Rakai,Kasensero,Kisimbanyiriri,Spray Pumps,6
+Rakai,Kasensero,Kisimbanyiriri,Tarpaulin,60
 Rakai,Kasensero,Kisimbanyiriri,Watering can,30
 Rakai,Kasensero,Kitonezi,Compound Sacks,10
 Rakai,Kasensero,Kitonezi,Filters,10
@@ -452,6 +458,7 @@ Rakai,Kasensero,Kitonezi,Pick Axe,10
 Rakai,Kasensero,Kitonezi,Plastic Drums,10
 Rakai,Kasensero,Kitonezi,Spade,20
 Rakai,Kasensero,Kitonezi,Spray Pumps,10
+Rakai,Kasensero,Kitonezi,Tarpaulin,100
 Rakai,Kasensero,Kitonezi,Watering can,50
 Rakai,Kasensero,Kiwaguzi_A,Compound Sacks,6
 Rakai,Kasensero,Kiwaguzi_A,Filters,6
@@ -461,6 +468,7 @@ Rakai,Kasensero,Kiwaguzi_A,Jerrycans,12
 Rakai,Kasensero,Kiwaguzi_A,Mortar and Pestle,6
 Rakai,Kasensero,Kiwaguzi_A,Pick Axe,6
 Rakai,Kasensero,Kiwaguzi_A,Plastic Drums,6
+Rakai,Kasensero,Kiwaguzi_A,Secateurs,30
 Rakai,Kasensero,Kiwaguzi_A,Spade,12
 Rakai,Kasensero,Kiwaguzi_A,Spray Pumps,6
 Rakai,Kasensero,Kiwaguzi_A,Watering can,30
@@ -474,6 +482,7 @@ Rakai,Kasensero,Kiwaguzi_B,Pick Axe,6
 Rakai,Kasensero,Kiwaguzi_B,Plastic Drums,6
 Rakai,Kasensero,Kiwaguzi_B,Spade,12
 Rakai,Kasensero,Kiwaguzi_B,Spray Pumps,6
+Rakai,Kasensero,Kiwaguzi_B,Tarpaulin,60
 Rakai,Kasensero,Kiwaguzi_B,Watering can,30
 Rakai,Kasensero,Kyaluwakula,Compound Sacks,4
 Rakai,Kasensero,Kyaluwakula,Filters,4
@@ -485,6 +494,7 @@ Rakai,Kasensero,Kyaluwakula,Pick Axe,4
 Rakai,Kasensero,Kyaluwakula,Plastic Drums,4
 Rakai,Kasensero,Kyaluwakula,Spade,8
 Rakai,Kasensero,Kyaluwakula,Spray Pumps,4
+Rakai,Kasensero,Kyaluwakula,Tarpaulin,40
 Rakai,Kasensero,Kyaluwakula,Watering can,20
 Rakai,Kasensero,Kyengeza_Rakai,Compound Sacks,12
 Rakai,Kasensero,Kyengeza_Rakai,Filters,12
@@ -496,6 +506,7 @@ Rakai,Kasensero,Kyengeza_Rakai,Pick Axe,12
 Rakai,Kasensero,Kyengeza_Rakai,Plastic Drums,12
 Rakai,Kasensero,Kyengeza_Rakai,Spade,24
 Rakai,Kasensero,Kyengeza_Rakai,Spray Pumps,12
+Rakai,Kasensero,Kyengeza_Rakai,Tarpaulin,120
 Rakai,Kasensero,Kyengeza_Rakai,Watering can,60
 Rakai,Kasensero,Mikunyu,Compound Sacks,6
 Rakai,Kasensero,Mikunyu,Filters,6
@@ -507,6 +518,7 @@ Rakai,Kasensero,Mikunyu,Pick Axe,6
 Rakai,Kasensero,Mikunyu,Plastic Drums,6
 Rakai,Kasensero,Mikunyu,Spade,12
 Rakai,Kasensero,Mikunyu,Spray Pumps,6
+Rakai,Kasensero,Mikunyu,Tarpaulin,60
 Rakai,Kasensero,Mikunyu,Watering can,30
 Rakai,Kasensero,Nabyala,Compound Sacks,4
 Rakai,Kasensero,Nabyala,Filters,6
@@ -518,6 +530,7 @@ Rakai,Kasensero,Nabyala,Pick Axe,4
 Rakai,Kasensero,Nabyala,Plastic Drums,4
 Rakai,Kasensero,Nabyala,Spade,8
 Rakai,Kasensero,Nabyala,Spray Pumps,4
+Rakai,Kasensero,Nabyala,Tarpaulin,40
 Rakai,Kasensero,Nabyala,Watering can,30
 Rakai,Kasensero,Nakitokolo,Compound Sacks,6
 Rakai,Kasensero,Nakitokolo,Filters,6
@@ -529,6 +542,7 @@ Rakai,Kasensero,Nakitokolo,Pick Axe,6
 Rakai,Kasensero,Nakitokolo,Plastic Drums,6
 Rakai,Kasensero,Nakitokolo,Spade,12
 Rakai,Kasensero,Nakitokolo,Spray Pumps,6
+Rakai,Kasensero,Nakitokolo,Tarpaulin,60
 Rakai,Kasensero,Nakitokolo,Watering can,30
 Rakai,Kyamakanaga,Kyamakanaga_A,Compound Sacks,7
 Rakai,Kyamakanaga,Kyamakanaga_A,Filters,7

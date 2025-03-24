@@ -6,20 +6,8 @@ KIT-KAN-EFR-F-162917-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-LAU-M-102926-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KYA-NAB-M-180405-15,Beans,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-WIL-M-143818-15,Beans,Kitagwenda,Bujumiro,Kyarubingo,A
-KIT-NYA-HEN-M-170911-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-KEN-M-161336-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NYA-MOS-M-095145-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-NAB-M-122521-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-NOR-F-164243-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-ROS-F-141959-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-SAP-F-173946-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-YOS-M-095510-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-MUY-EVE-M-110324-15,Beans,Kitagwenda,Muyenga,Muyenga_TC,A
-KIT-MUY-SAR-F-125745-15,Beans,Kitagwenda,Muyenga,Muyenga_TC,A
 KIT-NGA-AHM-M-111216-15,Beans,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-ZAN-DER-M-072616-15,Beans,Kitagwenda,Muyenga,Zanzibar,A
-KIT-ZAN-JAM-M-103058-15,Beans,Kitagwenda,Muyenga,Zanzibar,A
-KIT-BUJ-TUM-M-174042-15,Beans,Kitagwenda,Bujumiro,Bujumiro_B,A
 KIT-KAN-AGO-F-123535-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ALI-F-103951-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ATW-M-135111-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
@@ -43,7 +31,6 @@ KIT-KAN-TUR-M-113309-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-TUS-F-103714-15,Beans,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-NYA-KYA-M-143709-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NYA-NSH-M-122201-15,Beans,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NGA-TWA-M-123328-15,Beans,Kitagwenda,Muyenga,Nganiko_2,A
 RAK-KAN-GOE-M-095040-18,Beans,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-GON-M-090723-18,Beans,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-HAJ-F-225439-18,Beans,Rakai,Kanoni,Kanoni_Rakai,A
@@ -119,7 +106,6 @@ RAK-KAN-CHA-M-130555-18,Beans,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-DAM-M-111258-18,Beans,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-DAV-M-124413-18,Beans,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KIK-MAT-M-114532-18,Beans,Rakai,Kanoni,Kikakata,A
-RAK-KIK-MPA-F-120534-18,Beans,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NAS-F-104303-18,Beans,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NAS-F-131631-18,Beans,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NDI-F-093256-18,Beans,Rakai,Kanoni,Kikakata,A
@@ -320,24 +306,10 @@ KIT-KAN-CHA-M-113312-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-DAV-M-141446-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-EFR-F-162917-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-LAU-M-102926-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
-KIT-KYA-MOS-M-120051-15,Maize,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-NAB-M-180405-15,Maize,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-WIL-M-143818-15,Maize,Kitagwenda,Bujumiro,Kyarubingo,A
-KIT-NYA-HEN-M-170911-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-KEN-M-161336-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NYA-MOS-M-095145-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-NAB-M-122521-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-NOR-F-164243-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-ROS-F-141959-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-SAP-F-173946-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NYA-YOS-M-095510-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-MUY-EVE-M-110324-15,Maize,Kitagwenda,Muyenga,Muyenga_TC,A
-KIT-MUY-SAR-F-125745-15,Maize,Kitagwenda,Muyenga,Muyenga_TC,A
 KIT-NGA-AHM-M-111216-15,Maize,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-ZAN-DER-M-072616-15,Maize,Kitagwenda,Muyenga,Zanzibar,A
-KIT-ZAN-JAM-M-103058-15,Maize,Kitagwenda,Muyenga,Zanzibar,A
-KIT-NGA-HAN-M-121952-15,Maize,Kitagwenda,Nganiko,Nganiko_1,A
-KIT-BUJ-TUM-M-174042-15,Maize,Kitagwenda,Bujumiro,Bujumiro_B,A
 KIT-KAN-AGO-F-123535-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ALI-F-103951-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ATW-M-135111-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
@@ -361,26 +333,16 @@ KIT-KAN-TUR-M-113309-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-TUS-F-103714-15,Maize,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-NYA-KYA-M-143709-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NYA-NSH-M-122201-15,Maize,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
-KIT-NGA-TWA-M-123328-15,Maize,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-BUJ-EMM-M-182325-15,Irish Potatoes,Kitagwenda,Bujumiro,Bujumiro_A,A
 KIT-BUJ-RIC-M-155924-15,Irish Potatoes,Kitagwenda,Bujumiro,Bujumiro_A,A
 KIT-BUJ-ROB-M-083132-15,Irish Potatoes,Kitagwenda,Bujumiro,Bujumiro_A,A
-KIT-BUJ-VIC-M-144721-15,Irish Potatoes,Kitagwenda,Bujumiro,Bujumiro_A,A
 KIT-KAN-CHA-M-113312-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-LAU-M-102926-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-NOB-M-083727-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
-KIT-KYA-KEL-F-134347-15,Irish Potatoes,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-NAB-M-180405-15,Irish Potatoes,Kitagwenda,Bujumiro,Kyarubingo,A
-KIT-KYA-NIC-M-160729-15,Irish Potatoes,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-WIL-M-143818-15,Irish Potatoes,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-NYA-NOR-F-164243-15,Irish Potatoes,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NYA-ROS-F-141959-15,Irish Potatoes,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NGA-AHM-M-111216-15,Irish Potatoes,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-NGA-AID-F-112859-15,Irish Potatoes,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-NGA-VAN-M-144654-15,Irish Potatoes,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-NGA-GEO-M-103746-15,Irish Potatoes,Kitagwenda,Muyenga,Nganiko_3,A
-KIT-NGA-LAM-M-113420-15,Irish Potatoes,Kitagwenda,Muyenga,Nganiko_3,A
-KIT-KEM-YOH-M-140204-15,Irish Potatoes,Kitagwenda,Nganiko,Kemihoko_A,A
 KIT-KAN-AGO-F-123535-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ALI-F-103951-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ATW-M-135111-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
@@ -401,7 +363,6 @@ KIT-KAN-NYA-F-113236-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ORI-M-172114-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-TUR-M-113309-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-TUS-F-103714-15,Irish Potatoes,Kitagwenda,Bujumiro,Kanyamburara,A
-KIT-NGA-TWA-M-123328-15,Irish Potatoes,Kitagwenda,Muyenga,Nganiko_2,A
 RAK-KAN-ERI-M-150757-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-EVA-M-081622-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-FIR-F-211845-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
@@ -577,49 +538,18 @@ RAK-KAN-DAN-M-104635-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-DAV-M-124413-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-DON-M-095933-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
 RAK-KAN-EDI-M-084954-18,Irish Potatoes,Rakai,Kanoni,Kanoni_Rakai,A
-RAK-KIK-BUK-M-120521-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-KAT-F-143813-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-KYA-M-094838-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-LUK-M-093524-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-LUN-F-142245-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-MAM-F-083710-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-MAT-M-114532-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-MPA-F-120534-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-MUG-F-154644-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-MUG-M-112637-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NAB-F-094349-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAB-F-150406-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-095802-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-121338-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-122549-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-123641-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-130444-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NAK-F-131117-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-133632-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-140601-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-143620-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAK-F-153230-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAL-F-105244-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAL-F-110146-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAL-F-133746-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAM-F-103935-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAM-F-134556-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAM-F-142915-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAM-F-153610-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAN-F-095225-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAN-F-103242-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAN-F-132226-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAN-F-151120-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NAS-F-104303-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NAS-F-131631-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NAS-F-151516-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-NDI-F-093256-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-NSA-M-124742-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-SSE-M-081705-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-SSE-M-095659-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-SSE-M-122957-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIK-WAL-M-155241-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
-RAK-KIK-WIT-F-092209-18,Irish Potatoes,Rakai,Kanoni,Kikakata,A
 RAK-KIS-KID-M-115510-18,Irish Potatoes,Rakai,Kasensero,Kisimbanyiriri,A
 RAK-KYA-KAB-M-103323-18,Irish Potatoes,Rakai,Kasensero,Kyaluwakula,A
 RAK-KYA-KAG-M-094134-18,Irish Potatoes,Rakai,Kasensero,Kyaluwakula,A
@@ -891,25 +821,16 @@ RAK-NAK-SET-M-150741-18,Irish Potatoes,Rakai,Kasensero,Nakitokolo,A
 RAK-NAK-SSE-M-085632-18,Irish Potatoes,Rakai,Kasensero,Nakitokolo,A
 RAK-NAK-TUM-M-173538-18,Irish Potatoes,Rakai,Kasensero,Nakitokolo,A
 RAK-NAK-WAL-M-172830-18,Irish Potatoes,Rakai,Kasensero,Nakitokolo,A
-KIT-BUJ-EMM-M-182325-15,Onions - Local,Kitagwenda,Bujumiro,Bujumiro_A,A
 KIT-BUJ-RIC-M-155924-15,Onions - Local,Kitagwenda,Bujumiro,Bujumiro_A,A
 KIT-BUJ-ROB-M-083132-15,Onions - Local,Kitagwenda,Bujumiro,Bujumiro_A,A
-KIT-BUJ-VIC-M-144721-15,Onions - Local,Kitagwenda,Bujumiro,Bujumiro_A,A
 KIT-KAN-CHA-M-113312-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-LAU-M-102926-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-NOB-M-083727-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
-KIT-KYA-KEL-F-134347-15,Onions - Local,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-NAB-M-180405-15,Onions - Local,Kitagwenda,Bujumiro,Kyarubingo,A
-KIT-KYA-NIC-M-160729-15,Onions - Local,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-KYA-WIL-M-143818-15,Onions - Local,Kitagwenda,Bujumiro,Kyarubingo,A
 KIT-NYA-NOR-F-164243-15,Onions - Local,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NYA-ROS-F-141959-15,Onions - Local,Kitagwenda,Bujumiro,Nyabwina_Buhanda,A
 KIT-NGA-AHM-M-111216-15,Onions - Local,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-NGA-AID-F-112859-15,Onions - Local,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-NGA-VAN-M-144654-15,Onions - Local,Kitagwenda,Muyenga,Nganiko_2,A
-KIT-NGA-GEO-M-103746-15,Onions - Local,Kitagwenda,Muyenga,Nganiko_3,A
-KIT-NGA-LAM-M-113420-15,Onions - Local,Kitagwenda,Muyenga,Nganiko_3,A
-KIT-KEM-YOH-M-140204-15,Onions - Local,Kitagwenda,Nganiko,Kemihoko_A,A
 KIT-KAN-AGO-F-123535-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ALI-F-103951-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ATW-M-135111-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
@@ -930,4 +851,3 @@ KIT-KAN-NYA-F-113236-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-ORI-M-172114-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-TUR-M-113309-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
 KIT-KAN-TUS-F-103714-15,Onions - Local,Kitagwenda,Bujumiro,Kanyamburara,A
-KIT-NGA-TWA-M-123328-15,Onions - Local,Kitagwenda,Muyenga,Nganiko_2,A

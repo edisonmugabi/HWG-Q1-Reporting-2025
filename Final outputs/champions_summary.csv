@@ -1,173 +1,502 @@
 ,district_name,cluster_name,village_name,champion_type,Total_champions_designed,Total_champions_reported
-0,Kitagwenda,Bujumiro,Bujumiro_A,agric champion,6,
-1,Kitagwenda,Bujumiro,Bujumiro_A,coffee champion,6,
-2,Kitagwenda,Bujumiro,Bujumiro_A,village champion,1,
-3,Kitagwenda,Bujumiro,Bujumiro_A,wash champion,6,
-4,Kitagwenda,Bujumiro,Bujumiro_B,agric champion,4,
-5,Kitagwenda,Bujumiro,Bujumiro_B,coffee champion,4,
-6,Kitagwenda,Bujumiro,Bujumiro_B,village champion,1,
-7,Kitagwenda,Bujumiro,Bujumiro_B,wash champion,4,
-8,Kitagwenda,Bujumiro,Kanyamburara,agric champion,8,
-9,Kitagwenda,Bujumiro,Kanyamburara,coffee champion,8,
-10,Kitagwenda,Bujumiro,Kanyamburara,village champion,1,
-11,Kitagwenda,Bujumiro,Kanyamburara,wash champion,8,
-12,Kitagwenda,Bujumiro,Kyarubingo,agric champion,5,
-13,Kitagwenda,Bujumiro,Kyarubingo,coffee champion,5,
-14,Kitagwenda,Bujumiro,Kyarubingo,village champion,1,
-15,Kitagwenda,Bujumiro,Kyarubingo,wash champion,5,
-16,Kitagwenda,Bujumiro,Nyabwina_Buhanda,agric champion,3,
-17,Kitagwenda,Bujumiro,Nyabwina_Buhanda,coffee champion,3,
-18,Kitagwenda,Bujumiro,Nyabwina_Buhanda,village champion,1,
-19,Kitagwenda,Bujumiro,Nyabwina_Buhanda,wash champion,3,
-20,Kitagwenda,Muyenga,Muyenga_Central,agric champion,2,
-21,Kitagwenda,Muyenga,Muyenga_Central,coffee champion,2,
-22,Kitagwenda,Muyenga,Muyenga_Central,village champion,1,
-23,Kitagwenda,Muyenga,Muyenga_Central,wash champion,2,
-24,Kitagwenda,Muyenga,Muyenga_TC,agric champion,3,
-25,Kitagwenda,Muyenga,Muyenga_TC,coffee champion,3,
-26,Kitagwenda,Muyenga,Muyenga_TC,village champion,1,
-27,Kitagwenda,Muyenga,Muyenga_TC,wash champion,3,
-28,Kitagwenda,Muyenga,Nganiko_2,agric champion,3,
-29,Kitagwenda,Muyenga,Nganiko_2,coffee champion,3,
-30,Kitagwenda,Muyenga,Nganiko_2,village champion,1,
-31,Kitagwenda,Muyenga,Nganiko_2,wash champion,3,
-32,Kitagwenda,Muyenga,Nganiko_3,agric champion,3,
-33,Kitagwenda,Muyenga,Nganiko_3,coffee champion,3,
-34,Kitagwenda,Muyenga,Nganiko_3,village champion,1,
-35,Kitagwenda,Muyenga,Nganiko_3,wash champion,3,
-36,Kitagwenda,Muyenga,Zanzibar,agric champion,3,
-37,Kitagwenda,Muyenga,Zanzibar,coffee champion,3,
-38,Kitagwenda,Muyenga,Zanzibar,village champion,1,
-39,Kitagwenda,Muyenga,Zanzibar,wash champion,3,
-40,Kitagwenda,Nganiko,Kagorogoro_A,agric champion,2,
-41,Kitagwenda,Nganiko,Kagorogoro_A,coffee champion,2,
-42,Kitagwenda,Nganiko,Kagorogoro_A,village champion,1,
-43,Kitagwenda,Nganiko,Kagorogoro_A,wash champion,2,
-44,Kitagwenda,Nganiko,Kagorogoro_B,agric champion,2,
-45,Kitagwenda,Nganiko,Kagorogoro_B,coffee champion,2,
-46,Kitagwenda,Nganiko,Kagorogoro_B,village champion,1,
-47,Kitagwenda,Nganiko,Kagorogoro_B,wash champion,2,
-48,Kitagwenda,Nganiko,Kahenda,agric champion,3,
-49,Kitagwenda,Nganiko,Kahenda,coffee champion,3,
-50,Kitagwenda,Nganiko,Kahenda,village champion,1,
-51,Kitagwenda,Nganiko,Kahenda,wash champion,3,
-52,Kitagwenda,Nganiko,Kemihoko_A,agric champion,3,
-53,Kitagwenda,Nganiko,Kemihoko_A,coffee champion,3,
-54,Kitagwenda,Nganiko,Kemihoko_A,village champion,1,
-55,Kitagwenda,Nganiko,Kemihoko_A,wash champion,3,
-56,Kitagwenda,Nganiko,Kemihoko_B,agric champion,2,
-57,Kitagwenda,Nganiko,Kemihoko_B,coffee champion,2,
-58,Kitagwenda,Nganiko,Kemihoko_B,village champion,1,
-59,Kitagwenda,Nganiko,Kemihoko_B,wash champion,2,
-60,Kitagwenda,Nganiko,Nganiko_1,agric champion,3,
-61,Kitagwenda,Nganiko,Nganiko_1,coffee champion,3,
-62,Kitagwenda,Nganiko,Nganiko_1,village champion,1,
-63,Kitagwenda,Nganiko,Nganiko_1,wash champion,3,
-64,Kitagwenda,Nganiko,Nganiko_Central,agric champion,3,
-65,Kitagwenda,Nganiko,Nganiko_Central,coffee champion,3,
-66,Kitagwenda,Nganiko,Nganiko_Central,village champion,1,
-67,Kitagwenda,Nganiko,Nganiko_Central,wash champion,3,
-68,Kitagwenda,Nganiko,Nganiko_TC,agric champion,3,
-69,Kitagwenda,Nganiko,Nganiko_TC,coffee champion,3,
-70,Kitagwenda,Nganiko,Nganiko_TC,village champion,1,
-71,Kitagwenda,Nganiko,Nganiko_TC,wash champion,3,
-72,Kitagwenda,Nyakacwamba,Kapapari,agric champion,5,
-73,Kitagwenda,Nyakacwamba,Kapapari,coffee champion,5,
-74,Kitagwenda,Nyakacwamba,Kapapari,village champion,1,
-75,Kitagwenda,Nyakacwamba,Kapapari,wash champion,5,
-76,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,agric champion,5,
-77,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,coffee champion,5,
-78,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,village champion,1,
-79,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,wash champion,5,
-80,Kitagwenda,Nyakacwamba,Karubuguma_1,agric champion,4,
-81,Kitagwenda,Nyakacwamba,Karubuguma_1,coffee champion,4,
-82,Kitagwenda,Nyakacwamba,Karubuguma_1,village champion,1,
-83,Kitagwenda,Nyakacwamba,Karubuguma_1,wash champion,4,
-84,Kitagwenda,Nyakacwamba,Karubuguma_2,agric champion,9,
-85,Kitagwenda,Nyakacwamba,Karubuguma_2,coffee champion,9,
-86,Kitagwenda,Nyakacwamba,Karubuguma_2,village champion,1,
-87,Kitagwenda,Nyakacwamba,Karubuguma_2,wash champion,9,
-88,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,agric champion,4,
-89,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,coffee champion,4,
-90,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,village champion,1,
-91,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,wash champion,4,
-92,Kitagwenda,Nyakacwamba,Nyakacwamba_1,agric champion,5,
-93,Kitagwenda,Nyakacwamba,Nyakacwamba_1,coffee champion,5,
-94,Kitagwenda,Nyakacwamba,Nyakacwamba_1,village champion,1,
-95,Kitagwenda,Nyakacwamba,Nyakacwamba_1,wash champion,5,
-96,Kitagwenda,Nyakacwamba,Nyakacwamba_2,agric champion,4,
-97,Kitagwenda,Nyakacwamba,Nyakacwamba_2,coffee champion,4,
-98,Kitagwenda,Nyakacwamba,Nyakacwamba_2,village champion,1,
-99,Kitagwenda,Nyakacwamba,Nyakacwamba_2,wash champion,4,
-100,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,agric champion,6,
-101,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,coffee champion,6,
-102,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,village champion,1,
-103,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,wash champion,6,
-104,Rakai,Kanoni,Kamuli,agric champion,4,
-105,Rakai,Kanoni,Kamuli,coffee champion,4,
-106,Rakai,Kanoni,Kamuli,village champion,1,1.0
-107,Rakai,Kanoni,Kamuli,wash champion,4,
-108,Rakai,Kanoni,Kanoni_Rakai,agric champion,8,
-109,Rakai,Kanoni,Kanoni_Rakai,coffee champion,8,
-110,Rakai,Kanoni,Kanoni_Rakai,village champion,1,2.0
-111,Rakai,Kanoni,Kanoni_Rakai,wash champion,8,8.0
-112,Rakai,Kanoni,Kikakata,agric champion,5,5.0
-113,Rakai,Kanoni,Kikakata,coffee champion,5,
-114,Rakai,Kanoni,Kikakata,village champion,1,1.0
-115,Rakai,Kanoni,Kikakata,wash champion,5,5.0
-116,Rakai,Kanoni,Mpaama,agric champion,4,1.0
-117,Rakai,Kanoni,Mpaama,coffee champion,4,
-118,Rakai,Kanoni,Mpaama,village champion,1,1.0
-119,Rakai,Kanoni,Mpaama,wash champion,4,
-120,Rakai,Kasensero,Kammengo,agric champion,4,4.0
-121,Rakai,Kasensero,Kammengo,coffee champion,4,
-122,Rakai,Kasensero,Kammengo,village champion,1,1.0
-123,Rakai,Kasensero,Kammengo,wash champion,4,
-124,Rakai,Kasensero,Kisimbanyiriri,agric champion,6,6.0
-125,Rakai,Kasensero,Kisimbanyiriri,coffee champion,6,
-126,Rakai,Kasensero,Kisimbanyiriri,village champion,1,1.0
-127,Rakai,Kasensero,Kisimbanyiriri,wash champion,6,
-128,Rakai,Kasensero,Kitonezi,agric champion,10,9.0
-129,Rakai,Kasensero,Kitonezi,coffee champion,10,
-130,Rakai,Kasensero,Kitonezi,village champion,1,1.0
-131,Rakai,Kasensero,Kitonezi,wash champion,10,
-132,Rakai,Kasensero,Kiwaguzi_A,agric champion,6,6.0
-133,Rakai,Kasensero,Kiwaguzi_A,coffee champion,6,
-134,Rakai,Kasensero,Kiwaguzi_A,village champion,1,1.0
-135,Rakai,Kasensero,Kiwaguzi_A,wash champion,6,
-136,Rakai,Kasensero,Kiwaguzi_B,agric champion,6,5.0
-137,Rakai,Kasensero,Kiwaguzi_B,coffee champion,6,
-138,Rakai,Kasensero,Kiwaguzi_B,village champion,1,6.0
-139,Rakai,Kasensero,Kiwaguzi_B,wash champion,6,
-140,Rakai,Kasensero,Kyaluwakula,agric champion,4,4.0
-141,Rakai,Kasensero,Kyaluwakula,coffee champion,4,
-142,Rakai,Kasensero,Kyaluwakula,village champion,1,1.0
-143,Rakai,Kasensero,Kyaluwakula,wash champion,4,
-144,Rakai,Kasensero,Kyengeza_Rakai,agric champion,12,12.0
-145,Rakai,Kasensero,Kyengeza_Rakai,coffee champion,12,
-146,Rakai,Kasensero,Kyengeza_Rakai,village champion,1,1.0
-147,Rakai,Kasensero,Kyengeza_Rakai,wash champion,12,
-148,Rakai,Kasensero,Mikunyu,agric champion,6,6.0
-149,Rakai,Kasensero,Mikunyu,coffee champion,6,
-150,Rakai,Kasensero,Mikunyu,village champion,1,1.0
-151,Rakai,Kasensero,Mikunyu,wash champion,6,
-152,Rakai,Kasensero,Nabyala,agric champion,4,3.0
-153,Rakai,Kasensero,Nabyala,coffee champion,4,
-154,Rakai,Kasensero,Nabyala,village champion,1,1.0
-155,Rakai,Kasensero,Nabyala,wash champion,4,
-156,Rakai,Kasensero,Nakitokolo,agric champion,6,6.0
-157,Rakai,Kasensero,Nakitokolo,coffee champion,6,
-158,Rakai,Kasensero,Nakitokolo,village champion,1,1.0
-159,Rakai,Kasensero,Nakitokolo,wash champion,6,
-160,Rakai,Kyamakanaga,Kyamakanaga_A,agric champion,7,7.0
-161,Rakai,Kyamakanaga,Kyamakanaga_A,coffee champion,7,7.0
-162,Rakai,Kyamakanaga,Kyamakanaga_A,village champion,1,1.0
-163,Rakai,Kyamakanaga,Kyamakanaga_A,wash champion,7,7.0
-164,Rakai,Kyamakanaga,Kyamakanaga_B,agric champion,3,3.0
-165,Rakai,Kyamakanaga,Kyamakanaga_B,coffee champion,3,3.0
-166,Rakai,Kyamakanaga,Kyamakanaga_B,village champion,1,1.0
-167,Rakai,Kyamakanaga,Kyamakanaga_B,wash champion,3,3.0
-168,Rakai,Kyamakanaga,Nnongo_A,agric champion,9,10.0
-169,Rakai,Kyamakanaga,Nnongo_A,coffee champion,9,10.0
-170,Rakai,Kyamakanaga,Nnongo_A,village champion,1,1.0
-171,Rakai,Kyamakanaga,Nnongo_A,wash champion,9,9.0
+0,Kitagwenda,Bujumiro,Bujumiro_A,agric champion,6.0,
+1,Kitagwenda,Bujumiro,Bujumiro_A,coffee champion,6.0,
+2,Kitagwenda,Bujumiro,Bujumiro_A,village champion,1.0,
+3,Kitagwenda,Bujumiro,Bujumiro_A,wash champion,6.0,
+4,Kitagwenda,Bujumiro,Bujumiro_B,agric champion,4.0,
+5,Kitagwenda,Bujumiro,Bujumiro_B,coffee champion,4.0,
+6,Kitagwenda,Bujumiro,Bujumiro_B,village champion,1.0,
+7,Kitagwenda,Bujumiro,Bujumiro_B,wash champion,4.0,
+8,Kitagwenda,Bujumiro,Kanyamburara,agric champion,8.0,
+9,Kitagwenda,Bujumiro,Kanyamburara,coffee champion,8.0,
+10,Kitagwenda,Bujumiro,Kanyamburara,village champion,1.0,
+11,Kitagwenda,Bujumiro,Kanyamburara,wash champion,8.0,
+12,Kitagwenda,Bujumiro,Kyarubingo,agric champion,5.0,
+13,Kitagwenda,Bujumiro,Kyarubingo,coffee champion,5.0,
+14,Kitagwenda,Bujumiro,Kyarubingo,village champion,1.0,
+15,Kitagwenda,Bujumiro,Kyarubingo,wash champion,5.0,
+16,Kitagwenda,Bujumiro,Nyabwina_Buhanda,agric champion,3.0,
+17,Kitagwenda,Bujumiro,Nyabwina_Buhanda,coffee champion,3.0,
+18,Kitagwenda,Bujumiro,Nyabwina_Buhanda,village champion,1.0,
+19,Kitagwenda,Bujumiro,Nyabwina_Buhanda,wash champion,3.0,
+20,Kitagwenda,Kamayenje,Kamayenje_1,agric champion,,5.0
+21,Kitagwenda,Kamayenje,Kamayenje_1,coffee champion,,5.0
+22,Kitagwenda,Kamayenje,Kamayenje_1,village champion,,1.0
+23,Kitagwenda,Kamayenje,Kamayenje_1,vsla committee member,,21.0
+24,Kitagwenda,Kamayenje,Kamayenje_1,wash champion,,6.0
+25,Kitagwenda,Kamayenje,Kamayenje_2,agric champion,,6.0
+26,Kitagwenda,Kamayenje,Kamayenje_2,coffee champion,,6.0
+27,Kitagwenda,Kamayenje,Kamayenje_2,village champion,,6.0
+28,Kitagwenda,Kamayenje,Kamayenje_2,vsla committee member,,21.0
+29,Kitagwenda,Kamayenje,Kamayenje_2,wash champion,,6.0
+30,Kitagwenda,Kamayenje,Kamayenje_3,agric champion,,5.0
+31,Kitagwenda,Kamayenje,Kamayenje_3,coffee champion,,5.0
+32,Kitagwenda,Kamayenje,Kamayenje_3,village champion,,1.0
+33,Kitagwenda,Kamayenje,Kamayenje_3,vsla committee member,,21.0
+34,Kitagwenda,Kamayenje,Kamayenje_3,wash champion,,6.0
+35,Kitagwenda,Kamayenje,Karokarungi_Nyabbani,agric champion,,3.0
+36,Kitagwenda,Kamayenje,Karokarungi_Nyabbani,coffee champion,,3.0
+37,Kitagwenda,Kamayenje,Karokarungi_Nyabbani,village champion,,1.0
+38,Kitagwenda,Kamayenje,Karokarungi_Nyabbani,vsla committee member,,21.0
+39,Kitagwenda,Kamayenje,Karokarungi_Nyabbani,wash champion,,3.0
+40,Kitagwenda,Kamayenje,Kyembogo_1,agric champion,,7.0
+41,Kitagwenda,Kamayenje,Kyembogo_1,coffee champion,,7.0
+42,Kitagwenda,Kamayenje,Kyembogo_1,village champion,,1.0
+43,Kitagwenda,Kamayenje,Kyembogo_1,vsla committee member,,21.0
+44,Kitagwenda,Kamayenje,Kyembogo_1,wash champion,,10.0
+45,Kitagwenda,Kamayenje,Kyembogo_2,agric champion,,8.0
+46,Kitagwenda,Kamayenje,Kyembogo_2,coffee champion,,8.0
+47,Kitagwenda,Kamayenje,Kyembogo_2,village champion,,1.0
+48,Kitagwenda,Kamayenje,Kyembogo_2,vsla committee member,,21.0
+49,Kitagwenda,Kamayenje,Kyembogo_2,wash champion,,8.0
+50,Kitagwenda,Kamayenje,Rwakagyera,agric champion,,8.0
+51,Kitagwenda,Kamayenje,Rwakagyera,coffee champion,,8.0
+52,Kitagwenda,Kamayenje,Rwakagyera,village champion,,1.0
+53,Kitagwenda,Kamayenje,Rwakagyera,vsla committee member,,28.0
+54,Kitagwenda,Kamayenje,Rwakagyera,wash champion,,8.0
+55,Kitagwenda,Kibale,Endangara,agric champion,,3.0
+56,Kitagwenda,Kibale,Endangara,coffee champion,,5.0
+57,Kitagwenda,Kibale,Endangara,village champion,,1.0
+58,Kitagwenda,Kibale,Endangara,vsla committee member,,21.0
+59,Kitagwenda,Kibale,Endangara,wash champion,,3.0
+60,Kitagwenda,Kibale,Kakasi_II,agric champion,,3.0
+61,Kitagwenda,Kibale,Kakasi_II,coffee champion,,5.0
+62,Kitagwenda,Kibale,Kakasi_II,village champion,,1.0
+63,Kitagwenda,Kibale,Kakasi_II,vsla committee member,,21.0
+64,Kitagwenda,Kibale,Kakasi_II,wash champion,,3.0
+65,Kitagwenda,Kibale,Kebikona,agric champion,,4.0
+66,Kitagwenda,Kibale,Kebikona,coffee champion,,6.0
+67,Kitagwenda,Kibale,Kebikona,village champion,,2.0
+68,Kitagwenda,Kibale,Kebikona,vsla committee member,,26.0
+69,Kitagwenda,Kibale,Kebikona,wash champion,,6.0
+70,Kitagwenda,Kibale,Kibale_KITW,agric champion,,5.0
+71,Kitagwenda,Kibale,Kibale_KITW,coffee champion,,6.0
+72,Kitagwenda,Kibale,Kibale_KITW,village champion,,1.0
+73,Kitagwenda,Kibale,Kibale_KITW,vsla committee member,,20.0
+74,Kitagwenda,Kibale,Kibale_KITW,wash champion,,4.0
+75,Kitagwenda,Kibale,Kyabashwere,agric champion,,3.0
+76,Kitagwenda,Kibale,Kyabashwere,coffee champion,,4.0
+77,Kitagwenda,Kibale,Kyabashwere,village champion,,1.0
+78,Kitagwenda,Kibale,Kyabashwere,vsla committee member,,15.0
+79,Kitagwenda,Kibale,Kyabashwere,wash champion,,3.0
+80,Kitagwenda,Kibale,Kyeganywa_Ruhunga,agric champion,,3.0
+81,Kitagwenda,Kibale,Kyeganywa_Ruhunga,coffee champion,,6.0
+82,Kitagwenda,Kibale,Kyeganywa_Ruhunga,village champion,,1.0
+83,Kitagwenda,Kibale,Kyeganywa_Ruhunga,vsla committee member,,21.0
+84,Kitagwenda,Kibale,Kyeganywa_Ruhunga,wash champion,,4.0
+85,Kitagwenda,Kibale,Kyitira,agric champion,,3.0
+86,Kitagwenda,Kibale,Kyitira,coffee champion,,4.0
+87,Kitagwenda,Kibale,Kyitira,village champion,,1.0
+88,Kitagwenda,Kibale,Kyitira,vsla committee member,,20.0
+89,Kitagwenda,Kibale,Mpembwe,agric champion,,3.0
+90,Kitagwenda,Kibale,Mpembwe,coffee champion,,5.0
+91,Kitagwenda,Kibale,Mpembwe,village champion,,1.0
+92,Kitagwenda,Kibale,Mpembwe,vsla committee member,,27.0
+93,Kitagwenda,Kibale,Mpembwe,wash champion,,3.0
+94,Kitagwenda,Kibale,Nyaburama,agric champion,,4.0
+95,Kitagwenda,Kibale,Nyaburama,coffee champion,,6.0
+96,Kitagwenda,Kibale,Nyaburama,village champion,,1.0
+97,Kitagwenda,Kibale,Nyaburama,vsla committee member,,19.0
+98,Kitagwenda,Kibale,Nyaburama,wash champion,,4.0
+99,Kitagwenda,Kibale,Nyabusazu,agric champion,,3.0
+100,Kitagwenda,Kibale,Nyabusazu,coffee champion,,5.0
+101,Kitagwenda,Kibale,Nyabusazu,village champion,,1.0
+102,Kitagwenda,Kibale,Nyabusazu,vsla committee member,,20.0
+103,Kitagwenda,Kibale,Nyabusazu,wash champion,,3.0
+104,Kitagwenda,Muyenga,Muyenga_Central,agric champion,2.0,
+105,Kitagwenda,Muyenga,Muyenga_Central,coffee champion,2.0,
+106,Kitagwenda,Muyenga,Muyenga_Central,village champion,1.0,
+107,Kitagwenda,Muyenga,Muyenga_Central,wash champion,2.0,
+108,Kitagwenda,Muyenga,Muyenga_TC,agric champion,3.0,
+109,Kitagwenda,Muyenga,Muyenga_TC,coffee champion,3.0,
+110,Kitagwenda,Muyenga,Muyenga_TC,village champion,1.0,
+111,Kitagwenda,Muyenga,Muyenga_TC,wash champion,3.0,
+112,Kitagwenda,Muyenga,Nganiko_2,agric champion,3.0,
+113,Kitagwenda,Muyenga,Nganiko_2,coffee champion,3.0,
+114,Kitagwenda,Muyenga,Nganiko_2,village champion,1.0,
+115,Kitagwenda,Muyenga,Nganiko_2,wash champion,3.0,
+116,Kitagwenda,Muyenga,Nganiko_3,agric champion,3.0,
+117,Kitagwenda,Muyenga,Nganiko_3,coffee champion,3.0,
+118,Kitagwenda,Muyenga,Nganiko_3,village champion,1.0,
+119,Kitagwenda,Muyenga,Nganiko_3,wash champion,3.0,
+120,Kitagwenda,Muyenga,Zanzibar,agric champion,3.0,
+121,Kitagwenda,Muyenga,Zanzibar,coffee champion,3.0,
+122,Kitagwenda,Muyenga,Zanzibar,village champion,1.0,
+123,Kitagwenda,Muyenga,Zanzibar,wash champion,3.0,
+124,Kitagwenda,Nganiko,Kagorogoro_A,agric champion,2.0,
+125,Kitagwenda,Nganiko,Kagorogoro_A,coffee champion,2.0,
+126,Kitagwenda,Nganiko,Kagorogoro_A,village champion,1.0,
+127,Kitagwenda,Nganiko,Kagorogoro_A,wash champion,2.0,
+128,Kitagwenda,Nganiko,Kagorogoro_B,agric champion,2.0,
+129,Kitagwenda,Nganiko,Kagorogoro_B,coffee champion,2.0,
+130,Kitagwenda,Nganiko,Kagorogoro_B,village champion,1.0,
+131,Kitagwenda,Nganiko,Kagorogoro_B,wash champion,2.0,
+132,Kitagwenda,Nganiko,Kahenda,agric champion,3.0,
+133,Kitagwenda,Nganiko,Kahenda,coffee champion,3.0,
+134,Kitagwenda,Nganiko,Kahenda,village champion,1.0,
+135,Kitagwenda,Nganiko,Kahenda,wash champion,3.0,
+136,Kitagwenda,Nganiko,Kemihoko_A,agric champion,3.0,
+137,Kitagwenda,Nganiko,Kemihoko_A,coffee champion,3.0,
+138,Kitagwenda,Nganiko,Kemihoko_A,village champion,1.0,
+139,Kitagwenda,Nganiko,Kemihoko_A,wash champion,3.0,
+140,Kitagwenda,Nganiko,Kemihoko_B,agric champion,2.0,
+141,Kitagwenda,Nganiko,Kemihoko_B,coffee champion,2.0,
+142,Kitagwenda,Nganiko,Kemihoko_B,village champion,1.0,
+143,Kitagwenda,Nganiko,Kemihoko_B,wash champion,2.0,
+144,Kitagwenda,Nganiko,Nganiko_1,agric champion,3.0,
+145,Kitagwenda,Nganiko,Nganiko_1,coffee champion,3.0,
+146,Kitagwenda,Nganiko,Nganiko_1,village champion,1.0,
+147,Kitagwenda,Nganiko,Nganiko_1,wash champion,3.0,
+148,Kitagwenda,Nganiko,Nganiko_Central,agric champion,3.0,
+149,Kitagwenda,Nganiko,Nganiko_Central,coffee champion,3.0,
+150,Kitagwenda,Nganiko,Nganiko_Central,village champion,1.0,
+151,Kitagwenda,Nganiko,Nganiko_Central,wash champion,3.0,
+152,Kitagwenda,Nganiko,Nganiko_TC,agric champion,3.0,
+153,Kitagwenda,Nganiko,Nganiko_TC,coffee champion,3.0,
+154,Kitagwenda,Nganiko,Nganiko_TC,village champion,1.0,
+155,Kitagwenda,Nganiko,Nganiko_TC,wash champion,3.0,
+156,Kitagwenda,Nyakacwamba,Kapapari,agric champion,5.0,
+157,Kitagwenda,Nyakacwamba,Kapapari,coffee champion,5.0,
+158,Kitagwenda,Nyakacwamba,Kapapari,village champion,1.0,
+159,Kitagwenda,Nyakacwamba,Kapapari,wash champion,5.0,
+160,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,agric champion,5.0,
+161,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,coffee champion,5.0,
+162,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,village champion,1.0,
+163,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,wash champion,5.0,
+164,Kitagwenda,Nyakacwamba,Karubuguma_1,agric champion,4.0,
+165,Kitagwenda,Nyakacwamba,Karubuguma_1,coffee champion,4.0,
+166,Kitagwenda,Nyakacwamba,Karubuguma_1,village champion,1.0,
+167,Kitagwenda,Nyakacwamba,Karubuguma_1,wash champion,4.0,
+168,Kitagwenda,Nyakacwamba,Karubuguma_2,agric champion,9.0,
+169,Kitagwenda,Nyakacwamba,Karubuguma_2,coffee champion,9.0,
+170,Kitagwenda,Nyakacwamba,Karubuguma_2,village champion,1.0,
+171,Kitagwenda,Nyakacwamba,Karubuguma_2,wash champion,9.0,
+172,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,agric champion,4.0,
+173,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,coffee champion,4.0,
+174,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,village champion,1.0,
+175,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,wash champion,4.0,
+176,Kitagwenda,Nyakacwamba,Nyakacwamba_1,agric champion,5.0,
+177,Kitagwenda,Nyakacwamba,Nyakacwamba_1,coffee champion,5.0,
+178,Kitagwenda,Nyakacwamba,Nyakacwamba_1,village champion,1.0,
+179,Kitagwenda,Nyakacwamba,Nyakacwamba_1,wash champion,5.0,
+180,Kitagwenda,Nyakacwamba,Nyakacwamba_2,agric champion,4.0,
+181,Kitagwenda,Nyakacwamba,Nyakacwamba_2,coffee champion,4.0,
+182,Kitagwenda,Nyakacwamba,Nyakacwamba_2,village champion,1.0,
+183,Kitagwenda,Nyakacwamba,Nyakacwamba_2,wash champion,4.0,
+184,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,agric champion,6.0,
+185,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,coffee champion,6.0,
+186,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,village champion,1.0,
+187,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,wash champion,6.0,
+188,Kitagwenda,Nyamabale,Bwera,agric champion,,4.0
+189,Kitagwenda,Nyamabale,Bwera,coffee champion,,3.0
+190,Kitagwenda,Nyamabale,Bwera,village champion,,1.0
+191,Kitagwenda,Nyamabale,Bwera,vsla committee member,,21.0
+192,Kitagwenda,Nyamabale,Bwera,wash champion,,3.0
+193,Kitagwenda,Nyamabale,Kitusi_Nyamabale,agric champion,,5.0
+194,Kitagwenda,Nyamabale,Kitusi_Nyamabale,coffee champion,,5.0
+195,Kitagwenda,Nyamabale,Kitusi_Nyamabale,village champion,,1.0
+196,Kitagwenda,Nyamabale,Kitusi_Nyamabale,vsla committee member,,25.0
+197,Kitagwenda,Nyamabale,Kitusi_Nyamabale,wash champion,,5.0
+198,Kitagwenda,Nyamabale,Kyahafi,agric champion,,4.0
+199,Kitagwenda,Nyamabale,Kyahafi,coffee champion,,4.0
+200,Kitagwenda,Nyamabale,Kyahafi,village champion,,1.0
+201,Kitagwenda,Nyamabale,Kyahafi,vsla committee member,,21.0
+202,Kitagwenda,Nyamabale,Kyahafi,wash champion,,4.0
+203,Kitagwenda,Nyamabale,Kyahafi,water user committee member,,6.0
+204,Kitagwenda,Nyamabale,Muyangye,agric champion,,4.0
+205,Kitagwenda,Nyamabale,Muyangye,coffee champion,,4.0
+206,Kitagwenda,Nyamabale,Muyangye,village champion,,1.0
+207,Kitagwenda,Nyamabale,Muyangye,vsla committee member,,14.0
+208,Kitagwenda,Nyamabale,Muyangye,wash champion,,4.0
+209,Kitagwenda,Nyamabale,Muyangye,water user committee member,,12.0
+210,Kitagwenda,Nyamabale,Nshanju_B,agric champion,,5.0
+211,Kitagwenda,Nyamabale,Nshanju_B,coffee champion,,4.0
+212,Kitagwenda,Nyamabale,Nshanju_B,village champion,,1.0
+213,Kitagwenda,Nyamabale,Nshanju_B,vsla committee member,,21.0
+214,Kitagwenda,Nyamabale,Nshanju_B,wash champion,,4.0
+215,Kitagwenda,Nyamabale,Nshanju_B,water user committee member,,6.0
+216,Kitagwenda,Nyamabale,Nyamabare_Rwenjaza,agric champion,,5.0
+217,Kitagwenda,Nyamabale,Nyamabare_Rwenjaza,coffee champion,,5.0
+218,Kitagwenda,Nyamabale,Nyamabare_Rwenjaza,village champion,,1.0
+219,Kitagwenda,Nyamabale,Nyamabare_Rwenjaza,vsla committee member,,21.0
+220,Kitagwenda,Nyamabale,Nyamabare_Rwenjaza,wash champion,,5.0
+221,Kitagwenda,Nyamabale,Nyamabare_Rwenjaza,water user committee member,,6.0
+222,Kitagwenda,Rugarama,Bujanzara,agric champion,,7.0
+223,Kitagwenda,Rugarama,Bujanzara,coffee champion,,7.0
+224,Kitagwenda,Rugarama,Bujanzara,village champion,,1.0
+225,Kitagwenda,Rugarama,Bujanzara,vsla committee member,,21.0
+226,Kitagwenda,Rugarama,Bujanzara,wash champion,,7.0
+227,Kitagwenda,Rugarama,Bujanzara,water user committee member,,6.0
+228,Kitagwenda,Rugarama,Kashansha_Rugarama,agric champion,,4.0
+229,Kitagwenda,Rugarama,Kashansha_Rugarama,coffee champion,,4.0
+230,Kitagwenda,Rugarama,Kashansha_Rugarama,village champion,,1.0
+231,Kitagwenda,Rugarama,Kashansha_Rugarama,vsla committee member,,21.0
+232,Kitagwenda,Rugarama,Kashansha_Rugarama,wash champion,,4.0
+233,Kitagwenda,Rugarama,Kigoro,agric champion,,2.0
+234,Kitagwenda,Rugarama,Kigoro,coffee champion,,2.0
+235,Kitagwenda,Rugarama,Kigoro,village champion,,1.0
+236,Kitagwenda,Rugarama,Kigoro,vsla committee member,,21.0
+237,Kitagwenda,Rugarama,Kigoro,wash champion,,2.0
+238,Kitagwenda,Rugarama,Mutema,agric champion,,8.0
+239,Kitagwenda,Rugarama,Mutema,coffee champion,,7.0
+240,Kitagwenda,Rugarama,Mutema,village champion,,1.0
+241,Kitagwenda,Rugarama,Mutema,vsla committee member,,21.0
+242,Kitagwenda,Rugarama,Mutema,wash champion,,7.0
+243,Kitagwenda,Rugarama,Rugarama_II,agric champion,,9.0
+244,Kitagwenda,Rugarama,Rugarama_II,coffee champion,,9.0
+245,Kitagwenda,Rugarama,Rugarama_II,village champion,,2.0
+246,Kitagwenda,Rugarama,Rugarama_II,vsla committee member,,21.0
+247,Kitagwenda,Rugarama,Rugarama_II,wash champion,,10.0
+248,Kitagwenda,Rugarama,Rugarama_I_Ntara,agric champion,,5.0
+249,Kitagwenda,Rugarama,Rugarama_I_Ntara,coffee champion,,5.0
+250,Kitagwenda,Rugarama,Rugarama_I_Ntara,village champion,,1.0
+251,Kitagwenda,Rugarama,Rugarama_I_Ntara,vsla committee member,,21.0
+252,Kitagwenda,Rugarama,Rugarama_I_Ntara,wash champion,,5.0
+253,Kitagwenda,Ruhunga,Bagahwe,agric champion,,4.0
+254,Kitagwenda,Ruhunga,Bagahwe,coffee champion,,5.0
+255,Kitagwenda,Ruhunga,Bagahwe,village champion,,1.0
+256,Kitagwenda,Ruhunga,Bagahwe,vsla committee member,,21.0
+257,Kitagwenda,Ruhunga,Bagahwe,wash champion,,4.0
+258,Kitagwenda,Ruhunga,Kanduru,agric champion,,4.0
+259,Kitagwenda,Ruhunga,Kanduru,coffee champion,,5.0
+260,Kitagwenda,Ruhunga,Kanduru,village champion,,1.0
+261,Kitagwenda,Ruhunga,Kanduru,vsla committee member,,21.0
+262,Kitagwenda,Ruhunga,Kanduru,wash champion,,4.0
+263,Kitagwenda,Ruhunga,Kitomi_Kasyoha,agric champion,,2.0
+264,Kitagwenda,Ruhunga,Kitomi_Kasyoha,coffee champion,,3.0
+265,Kitagwenda,Ruhunga,Kitomi_Kasyoha,village champion,,1.0
+266,Kitagwenda,Ruhunga,Kitomi_Kasyoha,vsla committee member,,22.0
+267,Kitagwenda,Ruhunga,Kitomi_Kasyoha,wash champion,,2.0
+268,Kitagwenda,Ruhunga,Kyanyamuromba,agric champion,,4.0
+269,Kitagwenda,Ruhunga,Kyanyamuromba,coffee champion,,6.0
+270,Kitagwenda,Ruhunga,Kyanyamuromba,village champion,,1.0
+271,Kitagwenda,Ruhunga,Kyanyamuromba,vsla committee member,,21.0
+272,Kitagwenda,Ruhunga,Kyanyamuromba,wash champion,,4.0
+273,Kitagwenda,Ruhunga,Kyarwera,agric champion,,4.0
+274,Kitagwenda,Ruhunga,Kyarwera,coffee champion,,5.0
+275,Kitagwenda,Ruhunga,Kyarwera,village champion,,1.0
+276,Kitagwenda,Ruhunga,Kyarwera,vsla committee member,,21.0
+277,Kitagwenda,Ruhunga,Kyarwera,wash champion,,4.0
+278,Kitagwenda,Ruhunga,Nyabikamba_1,agric champion,,6.0
+279,Kitagwenda,Ruhunga,Nyabikamba_1,coffee champion,,7.0
+280,Kitagwenda,Ruhunga,Nyabikamba_1,village champion,,1.0
+281,Kitagwenda,Ruhunga,Nyabikamba_1,vsla committee member,,21.0
+282,Kitagwenda,Ruhunga,Nyabikamba_1,wash champion,,8.0
+283,Kitagwenda,Ruhunga,Nyabikamba_2,agric champion,,4.0
+284,Kitagwenda,Ruhunga,Nyabikamba_2,coffee champion,,5.0
+285,Kitagwenda,Ruhunga,Nyabikamba_2,village champion,,1.0
+286,Kitagwenda,Ruhunga,Nyabikamba_2,vsla committee member,,21.0
+287,Kitagwenda,Ruhunga,Nyabikamba_2,wash champion,,4.0
+288,Kitagwenda,Ruhunga,Nyabikamba_3,agric champion,,3.0
+289,Kitagwenda,Ruhunga,Nyabikamba_3,coffee champion,,4.0
+290,Kitagwenda,Ruhunga,Nyabikamba_3,village champion,,1.0
+291,Kitagwenda,Ruhunga,Nyabikamba_3,vsla committee member,,21.0
+292,Kitagwenda,Ruhunga,Nyabikamba_3,wash champion,,3.0
+293,Kitagwenda,Ruhunga,Rweya,agric champion,,5.0
+294,Kitagwenda,Ruhunga,Rweya,coffee champion,,6.0
+295,Kitagwenda,Ruhunga,Rweya,village champion,,1.0
+296,Kitagwenda,Ruhunga,Rweya,vsla committee member,,21.0
+297,Kitagwenda,Ruhunga,Rweya,wash champion,,5.0
+298,Rakai,Kanoni,Kamuli,agric champion,4.0,
+299,Rakai,Kanoni,Kamuli,coffee champion,4.0,
+300,Rakai,Kanoni,Kamuli,village champion,1.0,1.0
+301,Rakai,Kanoni,Kamuli,wash champion,4.0,
+302,Rakai,Kanoni,Kanoni_Rakai,agric champion,8.0,
+303,Rakai,Kanoni,Kanoni_Rakai,coffee champion,8.0,
+304,Rakai,Kanoni,Kanoni_Rakai,village champion,1.0,2.0
+305,Rakai,Kanoni,Kanoni_Rakai,wash champion,8.0,8.0
+306,Rakai,Kanoni,Kikakata,agric champion,5.0,5.0
+307,Rakai,Kanoni,Kikakata,coffee champion,5.0,
+308,Rakai,Kanoni,Kikakata,village champion,1.0,1.0
+309,Rakai,Kanoni,Kikakata,wash champion,5.0,5.0
+310,Rakai,Kanoni,Mpaama,agric champion,4.0,1.0
+311,Rakai,Kanoni,Mpaama,coffee champion,4.0,
+312,Rakai,Kanoni,Mpaama,village champion,1.0,1.0
+313,Rakai,Kanoni,Mpaama,wash champion,4.0,
+314,Rakai,Kasensero,Kammengo,agric champion,4.0,4.0
+315,Rakai,Kasensero,Kammengo,coffee champion,4.0,
+316,Rakai,Kasensero,Kammengo,village champion,1.0,1.0
+317,Rakai,Kasensero,Kammengo,wash champion,4.0,
+318,Rakai,Kasensero,Kisimbanyiriri,agric champion,6.0,6.0
+319,Rakai,Kasensero,Kisimbanyiriri,coffee champion,6.0,
+320,Rakai,Kasensero,Kisimbanyiriri,village champion,1.0,1.0
+321,Rakai,Kasensero,Kisimbanyiriri,wash champion,6.0,
+322,Rakai,Kasensero,Kitonezi,agric champion,10.0,9.0
+323,Rakai,Kasensero,Kitonezi,coffee champion,10.0,
+324,Rakai,Kasensero,Kitonezi,village champion,1.0,1.0
+325,Rakai,Kasensero,Kitonezi,wash champion,10.0,
+326,Rakai,Kasensero,Kiwaguzi_A,agric champion,6.0,6.0
+327,Rakai,Kasensero,Kiwaguzi_A,coffee champion,6.0,
+328,Rakai,Kasensero,Kiwaguzi_A,village champion,1.0,1.0
+329,Rakai,Kasensero,Kiwaguzi_A,wash champion,6.0,
+330,Rakai,Kasensero,Kiwaguzi_B,agric champion,6.0,5.0
+331,Rakai,Kasensero,Kiwaguzi_B,coffee champion,6.0,
+332,Rakai,Kasensero,Kiwaguzi_B,village champion,1.0,6.0
+333,Rakai,Kasensero,Kiwaguzi_B,wash champion,6.0,
+334,Rakai,Kasensero,Kyaluwakula,agric champion,4.0,4.0
+335,Rakai,Kasensero,Kyaluwakula,coffee champion,4.0,
+336,Rakai,Kasensero,Kyaluwakula,village champion,1.0,1.0
+337,Rakai,Kasensero,Kyaluwakula,wash champion,4.0,
+338,Rakai,Kasensero,Kyengeza_Rakai,agric champion,12.0,12.0
+339,Rakai,Kasensero,Kyengeza_Rakai,coffee champion,12.0,
+340,Rakai,Kasensero,Kyengeza_Rakai,village champion,1.0,1.0
+341,Rakai,Kasensero,Kyengeza_Rakai,wash champion,12.0,
+342,Rakai,Kasensero,Mikunyu,agric champion,6.0,6.0
+343,Rakai,Kasensero,Mikunyu,coffee champion,6.0,
+344,Rakai,Kasensero,Mikunyu,village champion,1.0,1.0
+345,Rakai,Kasensero,Mikunyu,wash champion,6.0,
+346,Rakai,Kasensero,Nabyala,agric champion,4.0,3.0
+347,Rakai,Kasensero,Nabyala,coffee champion,4.0,
+348,Rakai,Kasensero,Nabyala,village champion,1.0,1.0
+349,Rakai,Kasensero,Nabyala,wash champion,4.0,
+350,Rakai,Kasensero,Nakitokolo,agric champion,6.0,6.0
+351,Rakai,Kasensero,Nakitokolo,coffee champion,6.0,
+352,Rakai,Kasensero,Nakitokolo,village champion,1.0,1.0
+353,Rakai,Kasensero,Nakitokolo,wash champion,6.0,
+354,Rakai,Kibuuka,Kakenke,agric champion,,8.0
+355,Rakai,Kibuuka,Kakenke,coffee champion,,8.0
+356,Rakai,Kibuuka,Kakenke,village champion,,1.0
+357,Rakai,Kibuuka,Kakenke,vsla committee member,,22.0
+358,Rakai,Kibuuka,Kakenke,wash champion,,9.0
+359,Rakai,Kibuuka,Kamese,agric champion,,7.0
+360,Rakai,Kibuuka,Kamese,coffee champion,,7.0
+361,Rakai,Kibuuka,Kamese,village champion,,1.0
+362,Rakai,Kibuuka,Kamese,vsla committee member,,23.0
+363,Rakai,Kibuuka,Kamese,wash champion,,7.0
+364,Rakai,Kibuuka,Kamununku,agric champion,,13.0
+365,Rakai,Kibuuka,Kamununku,coffee champion,,13.0
+366,Rakai,Kibuuka,Kamununku,village champion,,1.0
+367,Rakai,Kibuuka,Kamununku,vsla committee member,,29.0
+368,Rakai,Kibuuka,Kamununku,wash champion,,13.0
+369,Rakai,Kibuuka,Kikumbaano,agric champion,,11.0
+370,Rakai,Kibuuka,Kikumbaano,coffee champion,,14.0
+371,Rakai,Kibuuka,Kikumbaano,village champion,,1.0
+372,Rakai,Kibuuka,Kikumbaano,vsla committee member,,25.0
+373,Rakai,Kibuuka,Kikumbaano,wash champion,,11.0
+374,Rakai,Kibuuka,Kyabanadda,agric champion,,11.0
+375,Rakai,Kibuuka,Kyabanadda,coffee champion,,11.0
+376,Rakai,Kibuuka,Kyabanadda,village champion,,1.0
+377,Rakai,Kibuuka,Kyabanadda,vsla committee member,,22.0
+378,Rakai,Kibuuka,Kyabanadda,wash champion,,11.0
+379,Rakai,Kibuuka,Kyanika_Kibuuka,agric champion,,15.0
+380,Rakai,Kibuuka,Kyanika_Kibuuka,coffee champion,,17.0
+381,Rakai,Kibuuka,Kyanika_Kibuuka,village champion,,1.0
+382,Rakai,Kibuuka,Kyanika_Kibuuka,vsla committee member,,22.0
+383,Rakai,Kibuuka,Kyanika_Kibuuka,wash champion,,15.0
+384,Rakai,Kibuuka,Luteete,agric champion,,14.0
+385,Rakai,Kibuuka,Luteete,coffee champion,,14.0
+386,Rakai,Kibuuka,Luteete,village champion,,1.0
+387,Rakai,Kibuuka,Luteete,vsla committee member,,24.0
+388,Rakai,Kibuuka,Luteete,wash champion,,15.0
+389,Rakai,Kibuuka,Lwoyo_A,agric champion,,13.0
+390,Rakai,Kibuuka,Lwoyo_A,coffee champion,,13.0
+391,Rakai,Kibuuka,Lwoyo_A,village champion,,1.0
+392,Rakai,Kibuuka,Lwoyo_A,vsla committee member,,21.0
+393,Rakai,Kibuuka,Lwoyo_A,wash champion,,13.0
+394,Rakai,Kibuuka,Lwoyo_B,agric champion,,9.0
+395,Rakai,Kibuuka,Lwoyo_B,coffee champion,,9.0
+396,Rakai,Kibuuka,Lwoyo_B,village champion,,1.0
+397,Rakai,Kibuuka,Lwoyo_B,vsla committee member,,23.0
+398,Rakai,Kibuuka,Lwoyo_B,wash champion,,9.0
+399,Rakai,Kibuuka,Sserinya,agric champion,,9.0
+400,Rakai,Kibuuka,Sserinya,coffee champion,,9.0
+401,Rakai,Kibuuka,Sserinya,village champion,,1.0
+402,Rakai,Kibuuka,Sserinya,vsla committee member,,24.0
+403,Rakai,Kibuuka,Sserinya,wash champion,,9.0
+404,Rakai,Kizinga,Kawenda,agric champion,,7.0
+405,Rakai,Kizinga,Kawenda,coffee champion,,7.0
+406,Rakai,Kizinga,Kawenda,village champion,,1.0
+407,Rakai,Kizinga,Kawenda,vsla committee member,,21.0
+408,Rakai,Kizinga,Kawenda,wash champion,,7.0
+409,Rakai,Kizinga,Kizinga_A,agric champion,,5.0
+410,Rakai,Kizinga,Kizinga_A,coffee champion,,6.0
+411,Rakai,Kizinga,Kizinga_A,village champion,,1.0
+412,Rakai,Kizinga,Kizinga_A,vsla committee member,,21.0
+413,Rakai,Kizinga,Kizinga_A,wash champion,,5.0
+414,Rakai,Kizinga,Kizinga_B,agric champion,,7.0
+415,Rakai,Kizinga,Kizinga_B,coffee champion,,7.0
+416,Rakai,Kizinga,Kizinga_B,village champion,,1.0
+417,Rakai,Kizinga,Kizinga_B,vsla committee member,,35.0
+418,Rakai,Kizinga,Kizinga_B,wash champion,,7.0
+419,Rakai,Kizinga,Kizinga_C,agric champion,,8.0
+420,Rakai,Kizinga,Kizinga_C,coffee champion,,8.0
+421,Rakai,Kizinga,Kizinga_C,village champion,,1.0
+422,Rakai,Kizinga,Kizinga_C,vsla committee member,,21.0
+423,Rakai,Kizinga,Kizinga_C,wash champion,,8.0
+424,Rakai,Kyalugaba,Bigando_Kyamunyerere,agric champion,,5.0
+425,Rakai,Kyalugaba,Bigando_Kyamunyerere,coffee champion,,5.0
+426,Rakai,Kyalugaba,Bigando_Kyamunyerere,village champion,,1.0
+427,Rakai,Kyalugaba,Bigando_Kyamunyerere,vsla committee member,,24.0
+428,Rakai,Kyalugaba,Bigando_Kyamunyerere,wash champion,,6.0
+429,Rakai,Kyalugaba,Kibuliro_A,agric champion,,14.0
+430,Rakai,Kyalugaba,Kibuliro_A,coffee champion,,14.0
+431,Rakai,Kyalugaba,Kibuliro_A,village champion,,1.0
+432,Rakai,Kyalugaba,Kibuliro_A,vsla committee member,,32.0
+433,Rakai,Kyalugaba,Kibuliro_A,wash champion,,12.0
+434,Rakai,Kyalugaba,Kiswere_A,agric champion,,6.0
+435,Rakai,Kyalugaba,Kiswere_A,coffee champion,,6.0
+436,Rakai,Kyalugaba,Kiswere_A,village champion,,1.0
+437,Rakai,Kyalugaba,Kiswere_A,vsla committee member,,23.0
+438,Rakai,Kyalugaba,Kiswere_A,wash champion,,8.0
+439,Rakai,Kyalugaba,Kiswere_B,agric champion,,7.0
+440,Rakai,Kyalugaba,Kiswere_B,coffee champion,,4.0
+441,Rakai,Kyalugaba,Kiswere_B,village champion,,1.0
+442,Rakai,Kyalugaba,Kiswere_B,vsla committee member,,15.0
+443,Rakai,Kyalugaba,Kiswere_B,wash champion,,4.0
+444,Rakai,Kyalugaba,Kyamulengera,agric champion,,10.0
+445,Rakai,Kyalugaba,Kyamulengera,coffee champion,,8.0
+446,Rakai,Kyalugaba,Kyamulengera,village champion,,1.0
+447,Rakai,Kyalugaba,Kyamulengera,vsla committee member,,28.0
+448,Rakai,Kyalugaba,Kyamulengera,wash champion,,10.0
+449,Rakai,Kyamakanaga,Kyamakanaga_A,agric champion,7.0,7.0
+450,Rakai,Kyamakanaga,Kyamakanaga_A,coffee champion,7.0,7.0
+451,Rakai,Kyamakanaga,Kyamakanaga_A,village champion,1.0,1.0
+452,Rakai,Kyamakanaga,Kyamakanaga_A,wash champion,7.0,7.0
+453,Rakai,Kyamakanaga,Kyamakanaga_B,agric champion,3.0,3.0
+454,Rakai,Kyamakanaga,Kyamakanaga_B,coffee champion,3.0,3.0
+455,Rakai,Kyamakanaga,Kyamakanaga_B,village champion,1.0,1.0
+456,Rakai,Kyamakanaga,Kyamakanaga_B,wash champion,3.0,3.0
+457,Rakai,Kyamakanaga,Nnongo_A,agric champion,9.0,10.0
+458,Rakai,Kyamakanaga,Nnongo_A,coffee champion,9.0,10.0
+459,Rakai,Kyamakanaga,Nnongo_A,village champion,1.0,1.0
+460,Rakai,Kyamakanaga,Nnongo_A,wash champion,9.0,9.0
+461,Rakai,Lyakisana,Bikarabo,agric champion,,10.0
+462,Rakai,Lyakisana,Bikarabo,coffee champion,,10.0
+463,Rakai,Lyakisana,Bikarabo,village champion,,1.0
+464,Rakai,Lyakisana,Bikarabo,vsla committee member,,21.0
+465,Rakai,Lyakisana,Bikarabo,wash champion,,10.0
+466,Rakai,Lyakisana,Buyojwa,agric champion,,8.0
+467,Rakai,Lyakisana,Buyojwa,coffee champion,,10.0
+468,Rakai,Lyakisana,Buyojwa,village champion,,1.0
+469,Rakai,Lyakisana,Buyojwa,vsla committee member,,21.0
+470,Rakai,Lyakisana,Buyojwa,wash champion,,8.0
+471,Rakai,Lyakisana,Kamulaba,agric champion,,14.0
+472,Rakai,Lyakisana,Kamulaba,coffee champion,,14.0
+473,Rakai,Lyakisana,Kamulaba,village champion,,1.0
+474,Rakai,Lyakisana,Kamulaba,vsla committee member,,29.0
+475,Rakai,Lyakisana,Kamulaba,wash champion,,14.0
+476,Rakai,Lyakisana,Lwenanga,agric champion,,10.0
+477,Rakai,Lyakisana,Lwenanga,coffee champion,,10.0
+478,Rakai,Lyakisana,Lwenanga,village champion,,1.0
+479,Rakai,Lyakisana,Lwenanga,vsla committee member,,29.0
+480,Rakai,Lyakisana,Lwenanga,wash champion,,10.0
+481,Rakai,Lyakisana,Lyakisana,agric champion,,8.0
+482,Rakai,Lyakisana,Lyakisana,coffee champion,,8.0
+483,Rakai,Lyakisana,Lyakisana,village champion,,1.0
+484,Rakai,Lyakisana,Lyakisana,vsla committee member,,21.0
+485,Rakai,Lyakisana,Lyakisana,wash champion,,8.0
+486,Rakai,Lyakisana,Mukogote,agric champion,,7.0
+487,Rakai,Lyakisana,Mukogote,coffee champion,,7.0
+488,Rakai,Lyakisana,Mukogote,village champion,,1.0
+489,Rakai,Lyakisana,Mukogote,vsla committee member,,29.0
+490,Rakai,Lyakisana,Mukogote,wash champion,,7.0
+491,Rakai,Lyakisana,Nakasenyi,agric champion,,8.0
+492,Rakai,Lyakisana,Nakasenyi,coffee champion,,8.0
+493,Rakai,Lyakisana,Nakasenyi,village champion,,1.0
+494,Rakai,Lyakisana,Nakasenyi,vsla committee member,,22.0
+495,Rakai,Lyakisana,Nakasenyi,wash champion,,8.0
+496,Rakai,Lyakisana,Rwamagabi,agric champion,,9.0
+497,Rakai,Lyakisana,Rwamagabi,coffee champion,,9.0
+498,Rakai,Lyakisana,Rwamagabi,village champion,,1.0
+499,Rakai,Lyakisana,Rwamagabi,vsla committee member,,22.0
+500,Rakai,Lyakisana,Rwamagabi,wash champion,,9.0

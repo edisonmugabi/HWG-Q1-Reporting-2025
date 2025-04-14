@@ -1,0 +1,650 @@
+region_name,district_name,cluster_name,village_name,cohort,cycle,household_id,tool,number_of_pieces
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Spade,6
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Secateurs,15
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Rope,0
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Plastic Drums,3
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Pick Axe,3
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Spray Pumps,3
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Jerrycans,6
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Hoes,6
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Gloves,6
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Forked Hoe,3
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-GOD-M-165522-15,Compound Sacks,3
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Spade,10
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Secateurs,25
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Rope,0
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Plastic Drums,5
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Pick Axe,5
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Spray Pumps,5
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Jerrycans,10
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Hoes,10
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Gloves,10
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Forked Hoe,5
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JUL-M-153045-15,Compound Sacks,5
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Rope,0
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Spade,14
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Secateurs,35
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Plastic Drums,7
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Pick Axe,7
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Spray Pumps,7
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Jerrycans,14
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Hoes,14
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Gloves,14
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Forked Hoe,7
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-YES-M-194339-15,Compound Sacks,7
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Plastic Drums,6
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Pick Axe,6
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Spade,12
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Secateurs,30
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Rope,2
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Spray Pumps,6
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Jerrycans,12
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Hoes,12
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Gloves,12
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Forked Hoe,6
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JUL-M-153703-15,Compound Sacks,6
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Secateurs,20
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Spade,8
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Rope,0
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Plastic Drums,4
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Pick Axe,4
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Spray Pumps,4
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Jerrycans,8
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Hoes,8
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Gloves,8
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Forked Hoe,4
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-FRA-M-093423-15,Compound Sacks,4
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-SSE-F-121047-18,Watering can,20
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-SSE-F-121047-18,Mortar and Pestle,4
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-MAR-M-111229-15,Compound Sacks,2
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Watering can,32
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Tarpaulin,40
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Secateurs,20
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Pruning saw,40
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Gloves,8
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Tarpaulin,50
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Secateurs,25
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Pruning saw,50
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Gloves,10
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Tarpaulin,80
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Secateurs,40
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Pruning saw,80
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Gloves,16
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-NAN-F-171507-18,Gloves,8
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-NAN-F-171507-18,Tarpaulin,40
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-NAN-F-171507-18,Pruning saw,40
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-NAN-F-171507-18,Secateurs,20
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-MUY-M-131024-18,Tarpaulin,60
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-MUY-M-131024-18,Secateurs,30
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-MUY-M-131024-18,Gloves,12
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-TIN-M-161842-18,Tarpaulin,60
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-TIN-M-161842-18,Secateurs,30
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-TIN-M-161842-18,Gloves,12
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-MUT-M-124817-18,Tarpaulin,40
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-MUT-M-124817-18,Secateurs,20
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-MUT-M-124817-18,Gloves,8
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-NAB-F-084152-18,Tarpaulin,60
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-NAB-F-084152-18,Secateurs,30
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-NAB-F-084152-18,Gloves,12
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-SSE-M-103103-18,Tarpaulin,120
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-SSE-M-103103-18,Secateurs,60
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-SSE-M-103103-18,Gloves,24
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-LUK-M-191049-18,Tarpaulin,40
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-LUK-M-191049-18,Secateurs,20
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-LUK-M-191049-18,Gloves,8
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-SSE-M-133638-18,Secateurs,30
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-SSE-M-133638-18,Tarpaulin,60
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-SSE-M-133638-18,Gloves,12
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-KIR-M-162355-18,Tarpaulin,100
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-KIR-M-162355-18,Secateurs,50
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-KIR-M-162355-18,Gloves,20
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-TUM-M-142052-18,Tarpaulin,60
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-TUM-M-142052-18,Secateurs,30
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-TUM-M-142052-18,Gloves,12
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-NAM-F-161324-18,Gloves,8
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-NAM-F-161324-18,Secateurs,20
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-NAM-F-161324-18,Tarpaulin,40
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-EVA-F-165728-18,Tarpaulin,30
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-EVA-F-165728-18,Secateurs,15
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-EVA-F-165728-18,Pruning saw,30
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-EVA-F-165728-18,Gloves,6
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-MOS-M-110236-18,Tarpaulin,90
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-MOS-M-110236-18,Secateurs,45
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-MOS-M-110236-18,Pruning saw,90
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-MOS-M-110236-18,Gloves,18
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-RAM-M-133937-18,Tarpaulin,70
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-RAM-M-133937-18,Secateurs,35
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-RAM-M-133937-18,Pruning saw,70
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-RAM-M-133937-18,Gloves,14
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Filters,4
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Filters,5
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Filters,8
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-NAN-F-171507-18,Filters,4
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Watering can,20
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-LUY-M-172721-18,Mortar and Pestle,4
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Watering can,25
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Mortar and Pestle,5
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Watering can,8
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-EDI-M-084954-18,Mortar and Pestle,8
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAY-M-102127-18,Watering can,30
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAY-M-102127-18,Mortar and Pestle,6
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAY-M-102127-18,Filters,6
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-BUK-M-113645-18,Watering can,20
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-BUK-M-113645-18,Mortar and Pestle,4
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-BUK-M-113645-18,Filters,4
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-NAL-F-184518-18,Watering can,30
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-NAL-F-184518-18,Mortar and Pestle,6
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-NAL-F-184518-18,Filters,6
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-KYA-M-185147-18,Watering can,60
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-KYA-M-185147-18,Mortar and Pestle,12
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-KYA-M-185147-18,Filters,12
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-SSE-M-164213-18,Watering can,20
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-SSE-M-164213-18,Mortar and Pestle,4
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-SSE-M-164213-18,Filters,4
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KYA-M-110759-18,Watering can,30
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KYA-M-110759-18,Mortar and Pestle,6
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KYA-M-110759-18,Filters,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-GRI-M-182005-18,Watering can,30
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-GRI-M-182005-18,Mortar and Pestle,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-GRI-M-182005-18,Filters,6
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUN-M-124326-18,Watering can,50
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUN-M-124326-18,Mortar and Pestle,10
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUN-M-124326-18,Filters,10
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-SSE-M-120924-18,Watering can,30
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-SSE-M-120924-18,Mortar and Pestle,6
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-SSE-M-120924-18,Filters,6
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-NAM-F-115614-18,Mortar and Pestle,4
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-NAM-F-115614-18,Watering can,20
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-NAM-F-115614-18,Filters,4
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-EDM-M-113045-15,Mortar and Pestle,3
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-EDM-M-113045-15,Filters,3
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-MAS-M-170420-15,Mortar and Pestle,5
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-MAS-M-170420-15,Filters,5
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-FRA-M-082359-15,Mortar and Pestle,7
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-FRA-M-082359-15,Filters,7
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-IRE-M-080148-15,Mortar and Pestle,6
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-IRE-M-080148-15,Filters,6
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-GER-M-144400-15,Mortar and Pestle,4
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-GER-M-144400-15,Filters,4
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-BEN-M-153328-18,Watering can,35
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-BEN-M-153328-18,Mortar and Pestle,7
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-BEN-M-153328-18,Filters,7
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-GEO-M-112817-18,Watering can,45
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-GEO-M-112817-18,Mortar and Pestle,9
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-GEO-M-112817-18,Filters,9
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-RIC-M-083532-18,Watering can,15
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-RIC-M-083532-18,Mortar and Pestle,3
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-RIC-M-083532-18,Filters,3
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-JOH-M-132754-15,Mortar and Pestle,3
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-JOH-M-132754-15,Filters,3
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-MAR-M-111229-15,Mortar and Pestle,3
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-MAR-M-111229-15,Filters,3
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-FRE-M-093705-15,Mortar and Pestle,3
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-FRE-M-093705-15,Filters,3
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Mortar and Pestle,3
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Filters,3
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Mortar and Pestle,2
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Filters,2
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-JOH-M-113016-15,Mortar and Pestle,5
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-JOH-M-113016-15,Filters,5
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-ADR-M-184523-15,Mortar and Pestle,4
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-ADR-M-184523-15,Filters,4
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-BAR-M-122232-15,Mortar and Pestle,5
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-BAR-M-122232-15,Filters,5
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-YOH-M-123717-15,Mortar and Pestle,4
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-YOH-M-123717-15,Filters,4
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-FAR-F-173304-15,Mortar and Pestle,9
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-FAR-F-173304-15,Filters,9
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-KAJ-M-162010-15,Mortar and Pestle,5
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-KAJ-M-162010-15,Filters,5
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-CHR-F-081026-15,Mortar and Pestle,6
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-CHR-F-081026-15,Filters,6
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Mortar and Pestle,4
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Filters,4
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-JUD-F-200634-15,Watering can,15
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-JUD-F-200634-15,Tarpaulin,30
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-JUD-F-200634-15,Mortar and Pestle,3
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-JUD-F-200634-15,Hoes,6
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-JUD-F-200634-15,Filters,3
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-ABS-M-092354-15,Watering can,15
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-ABS-M-092354-15,Tarpaulin,30
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-ABS-M-092354-15,Mortar and Pestle,3
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-ABS-M-092354-15,Hoes,6
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-ABS-M-092354-15,Filters,3
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-PAD-M-172326-15,Tarpaulin,30
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-PAD-M-172326-15,Watering can,15
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-PAD-M-172326-15,Mortar and Pestle,3
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-PAD-M-172326-15,Hoes,6
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-PAD-M-172326-15,Filters,3
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-ALE-M-102726-15,Hoes,4
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-ALE-M-102726-15,Watering can,10
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-ALE-M-102726-15,Tarpaulin,20
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-ALE-M-102726-15,Mortar and Pestle,2
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-ALE-M-102726-15,Filters,2
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-APO-M-094249-15,Tarpaulin,30
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-APO-M-094249-15,Watering can,15
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-APO-M-094249-15,Mortar and Pestle,3
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-APO-M-094249-15,Hoes,6
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-APO-M-094249-15,Filters,3
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Watering can,15
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Tarpaulin,30
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Mortar and Pestle,3
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Hoes,6
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Filters,3
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-SUN-M-071911-15,Watering can,10
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-SUN-M-071911-15,Tarpaulin,20
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-SUN-M-071911-15,Mortar and Pestle,2
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-SUN-M-071911-15,Hoes,4
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-SUN-M-071911-15,Filters,2
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-EMM-M-150515-15,Watering can,10
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-EMM-M-150515-15,Tarpaulin,20
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-EMM-M-150515-15,Mortar and Pestle,2
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-EMM-M-150515-15,Hoes,4
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-EMM-M-150515-15,Filters,2
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-ROB-M-122234-15,Watering can,20
+South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,KIT-BUJ-ROB-M-122234-15,Tarpaulin,40
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JAM-M-174920-15,Tarpaulin,50
+South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,KIT-KYA-JAM-M-174920-15,Watering can,25
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-ROB-M-190627-15,Tarpaulin,70
+South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,KIT-KAN-ROB-M-190627-15,Watering can,35
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-ROS-F-141959-15,Watering can,15
+South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,KIT-NYA-ROS-F-141959-15,Tarpaulin,30
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JOS-M-080952-15,Watering can,30
+South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,KIT-BUJ-JOS-M-080952-15,Tarpaulin,60
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-JOH-M-132754-15,Tarpaulin,30
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-JOH-M-132754-15,Watering can,15
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-MAR-M-111229-15,Tarpaulin,30
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-MAR-M-111229-15,Watering can,15
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-FRE-M-093705-15,Tarpaulin,30
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-FRE-M-093705-15,Watering can,15
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Watering can,15
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Tarpaulin,30
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Watering can,10
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Tarpaulin,20
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-JAC-M-162341-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-JAC-M-162341-15,Watering can,25
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-ALE-M-094050-15,Tarpaulin,15
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-ALE-M-094050-15,Watering can,20
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-GUM-M-111622-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-GUM-M-111622-15,Watering can,25
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-NAS-M-134533-15,Tarpaulin,15
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-NAS-M-134533-15,Watering can,20
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-TUR-M-151929-15,Tarpaulin,59
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-TUR-M-151929-15,Watering can,45
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-YOR-M-103540-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-YOR-M-103540-15,Watering can,25
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-BUZ-M-091734-15,Tarpaulin,35
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-BUZ-M-091734-15,Watering can,30
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NYI-F-145744-15,Watering can,20
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NYI-F-145744-15,Tarpaulin,15
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Pick Axe,6
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Spray Pumps,6
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Spade,6
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Secateurs,15
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Plastic Drums,3
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Jerrycans,6
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Gloves,6
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Forked Hoe,3
+South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,KIT-NGA-BOA-M-175234-15,Compound Sacks,3
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Forked Hoe,2
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Spray Pumps,4
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Spade,4
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Secateurs,10
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Spray Pumps,6
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Pick Axe,4
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Spade,6
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Secateurs,15
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Plastic Drums,2
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Pick Axe,6
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Jerrycans,4
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Gloves,4
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Plastic Drums,3
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Jerrycans,6
+South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,KIT-KEM-FLO-F-120944-15,Compound Sacks,2
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Spray Pumps,6
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Gloves,6
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Spade,6
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Forked Hoe,3
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Secateurs,15
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Pick Axe,6
+South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,KIT-NGA-PAT-F-000950-15,Compound Sacks,3
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Plastic Drums,3
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Jerrycans,6
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Gloves,6
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Forked Hoe,3
+South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,KIT-NGA-KAT-M-130419-15,Compound Sacks,3
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Spray Pumps,6
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Spade,6
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Secateurs,15
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Plastic Drums,3
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Pick Axe,6
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Jerrycans,6
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Gloves,6
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Forked Hoe,3
+South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,KIT-KEM-VAN-F-132431-15,Compound Sacks,3
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Spray Pumps,6
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Spade,6
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Secateurs,15
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Pick Axe,6
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Plastic Drums,3
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Jerrycans,6
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Gloves,6
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Forked Hoe,3
+South West,Kitagwenda,Nganiko,Kahenda,2025,A,KIT-KAH-GET-F-122400-15,Compound Sacks,3
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Spray Pumps,4
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Spade,4
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Secateurs,10
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Plastic Drums,2
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Pick Axe,4
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Jerrycans,4
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Gloves,4
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Forked Hoe,2
+South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,KIT-KAG-ATA-M-093148-15,Compound Sacks,2
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Pick Axe,4
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Spray Pumps,4
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Spade,4
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Secateurs,10
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Rope,2
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Plastic Drums,2
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Jerrycans,4
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Gloves,4
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Forked Hoe,2
+South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,KIT-KAG-SEK-M-154458-15,Compound Sacks,2
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Spade,6
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Secateurs,15
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Plastic Drums,3
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Pick Axe,6
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Spray Pumps,6
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Jerrycans,6
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Hoes,6
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Gloves,6
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Forked Hoe,3
+South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,KIT-MUY-ROB-M-092743-15,Compound Sacks,3
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Spade,4
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Secateurs,10
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Plastic Drums,2
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Pick Axe,4
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Spray Pumps,4
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Jerrycans,4
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Hoes,4
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Gloves,4
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Forked Hoe,2
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Compound Sacks,2
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Spade,6
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Secateurs,15
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Plastic Drums,3
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Pick Axe,6
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Spray Pumps,6
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Jerrycans,6
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Hoes,6
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Gloves,6
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Forked Hoe,3
+South West,Kitagwenda,Muyenga,Zanzibar,2025,A,KIT-ZAN-WEL-M-123124-15,Compound Sacks,3
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Spade,6
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Secateurs,15
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Plastic Drums,3
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Pick Axe,6
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Spray Pumps,6
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Jerrycans,6
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Hoes,6
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Gloves,6
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Forked Hoe,3
+South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,KIT-NGA-JAN-F-103422-15,Compound Sacks,3
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Spade,6
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Secateurs,15
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Rope,0
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Plastic Drums,3
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Pick Axe,6
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Spray Pumps,6
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Jerrycans,6
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Hoes,6
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Gloves,6
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Forked Hoe,3
+South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,KIT-NGA-ROB-M-090554-15,Compound Sacks,1
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Jerrycans,8
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Compound Sacks,4
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Spray Pumps,4
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Plastic Drums,4
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Spade,8
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Pick Axe,4
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Forked Hoe,4
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAS-M-143346-18,Hoes,8
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Compound Sacks,12
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Jerrycans,24
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Spray Pumps,12
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Spade,24
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Pick Axe,12
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Forked Hoe,12
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Hoes,24
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-170457-18,Plastic Drums,12
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Secateurs,30
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Gloves,12
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Jerrycans,12
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Compound Sacks,6
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Spray Pumps,12
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Plastic Drums,6
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Spade,12
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Pick Axe,12
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Forked Hoe,6
+South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,KIT-RWE-ROB-M-123702-15,Hoes,12
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Secateurs,20
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Gloves,8
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Jerrycans,8
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Compound Sacks,4
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Spray Pumps,8
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Plastic Drums,4
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Spade,8
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Pick Axe,8
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Forked Hoe,4
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,KIT-NYA-NAN-F-121835-15,Hoes,8
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Secateurs,20
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Gloves,8
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Jerrycans,8
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Compound Sacks,4
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Spray Pumps,8
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Plastic Drums,4
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Spade,8
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Pick Axe,8
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Forked Hoe,4
+South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,KIT-MPA-JAC-F-174014-15,Hoes,8
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Secateurs,25
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Gloves,10
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Jerrycans,10
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Compound Sacks,5
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Spray Pumps,10
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Plastic Drums,5
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Spade,10
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Pick Axe,10
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Forked Hoe,5
+South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,KIT-NYA-BEJ-M-182434-15,Hoes,10
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Spade,18
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Secateurs,45
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Gloves,18
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Jerrycans,18
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Tarpaulin,31
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Compound Sacks,9
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Spray Pumps,18
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Plastic Drums,9
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Pick Axe,18
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Forked Hoe,9
+South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,KIT-KAR-OBE-M-171455-15,Hoes,18
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Secateurs,20
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Gloves,8
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Jerrycans,8
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Compound Sacks,4
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Spray Pumps,8
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Plastic Drums,4
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Spade,8
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Pick Axe,8
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Forked Hoe,4
+South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,KIT-KAR-ROB-M-110603-15,Hoes,8
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Rope,0
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Secateurs,25
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Gloves,10
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Jerrycans,10
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Compound Sacks,5
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Spray Pumps,10
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Plastic Drums,5
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Spade,10
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Pick Axe,10
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Forked Hoe,5
+South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,KIT-KAR-KAT-M-111113-15,Hoes,10
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Rope,2
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Secateurs,25
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Gloves,10
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Jerrycans,10
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Tarpaulin,25
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Compound Sacks,5
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Spray Pumps,10
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Plastic Drums,5
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Spade,10
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Pick Axe,10
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Forked Hoe,5
+South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,KIT-KAP-JAC-M-184536-15,Hoes,10
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Compound Sacks,4
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Jerrycans,8
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Spray Pumps,4
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Plastic Drums,4
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Spade,8
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Pick Axe,4
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Forked Hoe,4
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-MUK-M-170949-18,Hoes,8
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Jerrycans,8
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Compound Sacks,4
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Spray Pumps,4
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Plastic Drums,4
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Spade,8
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Pick Axe,4
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Forked Hoe,4
+Central,Rakai,Kanoni,Mpaama,2025,A,RAK-MPA-MAT-M-170839-18,Hoes,8
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Jerrycans,10
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Compound Sacks,5
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Spray Pumps,5
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Plastic Drums,5
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Spade,10
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Pick Axe,5
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Forked Hoe,5
+Central,Rakai,Kanoni,Kikakata,2025,A,RAK-KIK-SSE-M-160912-18,Hoes,10
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Jerrycans,16
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Compound Sacks,8
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Spray Pumps,8
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Plastic Drums,8
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Spade,16
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Pick Axe,8
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Forked Hoe,8
+Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,RAK-KAN-KAT-M-075643-18,Hoes,16
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Forked Hoe,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Jerrycans,12
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Compound Sacks,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Spray Pumps,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Plastic Drums,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Spade,12
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Pick Axe,6
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-HAD-F-151529-18,Hoes,12
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Pick Axe,6
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Spade,12
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Plastic Drums,6
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Spray Pumps,6
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Compound Sacks,6
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Jerrycans,12
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Forked Hoe,6
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-KAT-M-094531-18,Hoes,12
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Jerrycans,20
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Compound Sacks,10
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Spray Pumps,10
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Plastic Drums,10
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Spade,20
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Pick Axe,10
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Forked Hoe,10
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Hoes,20
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Pick Axe,4
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Plastic Drums,4
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Jerrycans,8
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Compound Sacks,4
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Spray Pumps,4
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Spade,8
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Forked Hoe,4
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-SSE-M-110722-18,Hoes,8
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Pick Axe,6
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Spray Pumps,6
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Jerrycans,12
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Compound Sacks,6
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Plastic Drums,6
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Spade,12
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Forked Hoe,6
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-KAL-M-180333-18,Hoes,12
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Jerrycans,6
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Compound Sacks,3
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Spray Pumps,3
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Plastic Drums,3
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Spade,6
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Pick Axe,3
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Forked Hoe,3
+Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,RAK-KYA-APO-M-110606-18,Hoes,6
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Jerrycans,18
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Compound Sacks,9
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Spray Pumps,9
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Plastic Drums,9
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Spade,18
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Pick Axe,9
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Forked Hoe,9
+Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,RAK-NNO-ASI-M-103716-18,Hoes,18
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Jerrycans,8
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Compound Sacks,4
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Spray Pumps,4
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Plastic Drums,4
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Spade,8
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Pick Axe,4
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Forked Hoe,4
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Hoes,8
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Compound Sacks,7
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Rope,1
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Jerrycans,14
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Spray Pumps,7
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Plastic Drums,7
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Spade,14
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Pick Axe,7
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Forked Hoe,7
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-APO-M-132529-18,Hoes,14
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Jerrycans,12
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Compound Sacks,6
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Spray Pumps,6
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Plastic Drums,6
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Spade,12
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Pick Axe,6
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Forked Hoe,6
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-MAG-M-105231-18,Hoes,12
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Jerrycans,12
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Compound Sacks,6
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Spray Pumps,6
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Plastic Drums,6
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Spade,12
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Pick Axe,6
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Forked Hoe,6
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Hoes,12
+Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,RAK-KYA-BOA-M-072712-18,Rope,1
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-SSO-M-132826-18,Rope,2
+Central,Rakai,Kanoni,Kamuli,2025,A,RAK-KAM-LUW-M-133802-18,Rope,2
+South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,KIT-MUY-KOL-M-110443-15,Spray Pumps,2
+Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,RAK-KIS-NAB-F-120201-18,Pruning saw,60
+Central,Rakai,Kasensero,Nakitokolo,2025,A,RAK-NAK-LUK-M-151741-18,Pruning saw,60
+Central,Rakai,Kasensero,Mikunyu,2025,A,RAK-MIK-SSE-M-123444-18,Pruning saw,60
+Central,Rakai,Kasensero,Kitonezi,2025,A,RAK-KIT-MUT-M-084050-18,Pruning saw,100
+Central,Rakai,Kasensero,Nabyala,2025,A,RAK-NAB-KAB-F-160935-18,Pruning saw,40
+Central,Rakai,Kasensero,Kyaluwakula,2025,A,RAK-KYA-KAT-M-134040-18,Pruning saw,40
+Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,RAK-KIW-LUY-M-162039-18,Pruning saw,60
+Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,RAK-KIW-ARC-M-173007-18,Pruning saw,60
+Central,Rakai,Kasensero,Kammengo,2025,A,RAK-KAM-MUZ-M-125007-18,Pruning saw,40
+Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,RAK-KYE-NAK-F-075524-18,Pruning saw,120

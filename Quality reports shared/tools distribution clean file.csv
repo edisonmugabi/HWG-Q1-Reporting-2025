@@ -53,7 +53,7 @@ Kitagwenda,Bujumiro,Kyarubingo,Jerrycans,10
 Kitagwenda,Bujumiro,Kyarubingo,Mortar and Pestle,5
 Kitagwenda,Bujumiro,Kyarubingo,Pick Axe,5
 Kitagwenda,Bujumiro,Kyarubingo,Plastic Drums,5
-Kitagwenda,Bujumiro,Kyarubingo,Rope,1
+Kitagwenda,Bujumiro,Kyarubingo,Rope,0
 Kitagwenda,Bujumiro,Kyarubingo,Secateurs,25
 Kitagwenda,Bujumiro,Kyarubingo,Spade,10
 Kitagwenda,Bujumiro,Kyarubingo,Spray Pumps,5
@@ -68,7 +68,7 @@ Kitagwenda,Bujumiro,Nyabwina_Buhanda,Jerrycans,6
 Kitagwenda,Bujumiro,Nyabwina_Buhanda,Mortar and Pestle,3
 Kitagwenda,Bujumiro,Nyabwina_Buhanda,Pick Axe,3
 Kitagwenda,Bujumiro,Nyabwina_Buhanda,Plastic Drums,3
-Kitagwenda,Bujumiro,Nyabwina_Buhanda,Rope,1
+Kitagwenda,Bujumiro,Nyabwina_Buhanda,Rope,0
 Kitagwenda,Bujumiro,Nyabwina_Buhanda,Secateurs,15
 Kitagwenda,Bujumiro,Nyabwina_Buhanda,Spade,6
 Kitagwenda,Bujumiro,Nyabwina_Buhanda,Spray Pumps,3
@@ -125,7 +125,7 @@ Kitagwenda,Muyenga,Nganiko_3,Jerrycans,6
 Kitagwenda,Muyenga,Nganiko_3,Mortar and Pestle,3
 Kitagwenda,Muyenga,Nganiko_3,Pick Axe,6
 Kitagwenda,Muyenga,Nganiko_3,Plastic Drums,3
-Kitagwenda,Muyenga,Nganiko_3,Rope,1
+Kitagwenda,Muyenga,Nganiko_3,Rope,0
 Kitagwenda,Muyenga,Nganiko_3,Secateurs,15
 Kitagwenda,Muyenga,Nganiko_3,Spade,6
 Kitagwenda,Muyenga,Nganiko_3,Spray Pumps,6
@@ -267,7 +267,7 @@ Kitagwenda,Nyakacwamba,Kapapari,Jerrycans,10
 Kitagwenda,Nyakacwamba,Kapapari,Mortar and Pestle,5
 Kitagwenda,Nyakacwamba,Kapapari,Pick Axe,10
 Kitagwenda,Nyakacwamba,Kapapari,Plastic Drums,5
-Kitagwenda,Nyakacwamba,Kapapari,Rope,0
+Kitagwenda,Nyakacwamba,Kapapari,Rope,2
 Kitagwenda,Nyakacwamba,Kapapari,Secateurs,25
 Kitagwenda,Nyakacwamba,Kapapari,Spade,10
 Kitagwenda,Nyakacwamba,Kapapari,Spray Pumps,10
@@ -539,6 +539,7 @@ Rakai,Kasensero,Kyengeza_Rakai,Jerrycans,24
 Rakai,Kasensero,Kyengeza_Rakai,Mortar and Pestle,12
 Rakai,Kasensero,Kyengeza_Rakai,Pick Axe,12
 Rakai,Kasensero,Kyengeza_Rakai,Plastic Drums,12
+Rakai,Kasensero,Kyengeza_Rakai,Pruning saw,120
 Rakai,Kasensero,Kyengeza_Rakai,Secateurs,60
 Rakai,Kasensero,Kyengeza_Rakai,Spade,24
 Rakai,Kasensero,Kyengeza_Rakai,Spray Pumps,12

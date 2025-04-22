@@ -1,0 +1,586 @@
+guid,region_name,district_name,cluster_name,village_name,cohort,cycle,reporter,reporter_email,tools,number of pieces,hours_to_complete,officials,other_officials,challenges,other_challenges,latitude,longitude,created_at
+22C7315D-8710-FB16-F270-4BBAAC5D8A8D,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Gloves ,6,4,,,,,-0.5729674,31.2696108,13/03/2025 10:51
+22C7315D-8710-FB16-F270-4BBAAC5D8A8D,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Pruning saw ,30,4,,,,,-0.5729674,31.2696108,13/03/2025 10:51
+22C7315D-8710-FB16-F270-4BBAAC5D8A8D,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Secateurs ,15,4,,,,,-0.5729674,31.2696108,13/03/2025 10:51
+22C7315D-8710-FB16-F270-4BBAAC5D8A8D,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Tarpaulin ,30,4,,,,,-0.5729674,31.2696108,13/03/2025 10:51
+7A1000E1-963D-EF7A-3950-4F5A32FC6E67,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Gloves ,18,4,,,,,-0.578514,31.2742601,13/03/2025 10:50
+7A1000E1-963D-EF7A-3950-4F5A32FC6E67,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Pruning saw ,90,4,,,,,-0.578514,31.2742601,13/03/2025 10:50
+7A1000E1-963D-EF7A-3950-4F5A32FC6E67,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Secateurs ,45,4,,,,,-0.578514,31.2742601,13/03/2025 10:50
+7A1000E1-963D-EF7A-3950-4F5A32FC6E67,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Tarpaulin ,90,4,,,,,-0.578514,31.2742601,13/03/2025 10:50
+65121706-6BC2-AC1B-0B3C-83F2D6A58B63,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Gloves ,14,4,,,,,-0.578514,31.2742601,13/03/2025 10:48
+65121706-6BC2-AC1B-0B3C-83F2D6A58B63,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Pruning saw ,70,4,,,,,-0.578514,31.2742601,13/03/2025 10:48
+65121706-6BC2-AC1B-0B3C-83F2D6A58B63,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Secateurs ,35,4,,,,,-0.578514,31.2742601,13/03/2025 10:48
+65121706-6BC2-AC1B-0B3C-83F2D6A58B63,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Tarpaulin ,70,4,,,,,-0.578514,31.2742601,13/03/2025 10:48
+C762FE75-BB2E-DBAA-9174-8BBEC6E0A858,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Filters ,4,4,,,,,-0.715151,31.4050794,10/03/2025 16:09
+0CA1A0C1-28B8-7A28-5297-58D0B6734647,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Filters ,5,4,,,,,-0.715151,31.4050794,10/03/2025 16:07
+CB6395F0-65FD-A413-F3A6-415BC1B95CC7,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Filters ,8,4,,,,,-0.715151,31.4050794,10/03/2025 16:06
+E2AD0CBE-201A-0AA7-E561-9B39D986CBB7,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Filters ,4,4,,,,,-0.715151,31.4050794,10/03/2025 16:05
+96F38739-F9E5-A68F-BB25-961B19BB855E,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,-0.7174434,31.404365,10/03/2025 15:54
+96F38739-F9E5-A68F-BB25-961B19BB855E,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Watering can ,20,4,,,,,-0.7174434,31.404365,10/03/2025 15:54
+3BA59A55-14D5-4D35-0F04-D06411C98732,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Mortar and Pestle ,5,4,,,,,-0.7174434,31.404365,10/03/2025 15:53
+3BA59A55-14D5-4D35-0F04-D06411C98732,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Watering can ,25,4,,,,,-0.7174434,31.404365,10/03/2025 15:53
+8CFB2552-6196-4892-100D-2E7119326BF1,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Mortar and Pestle ,40,4,,,,,-0.7174434,31.404365,10/03/2025 15:51
+8CFB2552-6196-4892-100D-2E7119326BF1,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Watering can ,8,4,,,,,-0.7174434,31.404365,10/03/2025 15:51
+862C88AC-4D18-40A5-106C-2AE1477C6488,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,6,4,,,,,-0.7123626,31.4026859,09/03/2025 16:20
+862C88AC-4D18-40A5-106C-2AE1477C6488,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,-0.7123626,31.4026859,09/03/2025 16:20
+862C88AC-4D18-40A5-106C-2AE1477C6488,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,30,4,,,,,-0.7123626,31.4026859,09/03/2025 16:20
+45B9D5C0-7443-FD71-AF71-8FDE51EF6D4E,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,6,4,,,,,-0.7123907,31.4027121,09/03/2025 16:19
+45B9D5C0-7443-FD71-AF71-8FDE51EF6D4E,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,-0.7123907,31.4027121,09/03/2025 16:19
+45B9D5C0-7443-FD71-AF71-8FDE51EF6D4E,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,30,4,,,,,-0.7123907,31.4027121,09/03/2025 16:19
+DA690D8D-DB4C-1A22-ADAF-0031DF15169E,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,6,4,,,,,-0.7124398,31.4026083,09/03/2025 16:18
+DA690D8D-DB4C-1A22-ADAF-0031DF15169E,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,-0.7124398,31.4026083,09/03/2025 16:18
+DA690D8D-DB4C-1A22-ADAF-0031DF15169E,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,30,4,,,,,-0.7124398,31.4026083,09/03/2025 16:18
+2FF65A2C-619E-9C33-93C7-7543EA86D079,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,12,4,,,,,-0.7123818,31.4026489,09/03/2025 16:17
+2FF65A2C-619E-9C33-93C7-7543EA86D079,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,12,4,,,,,-0.7123818,31.4026489,09/03/2025 16:17
+2FF65A2C-619E-9C33-93C7-7543EA86D079,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,60,4,,,,,-0.7123818,31.4026489,09/03/2025 16:17
+D2FC855E-B5D0-A09A-6E52-5D9CB5AC8943,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,4,4,,,,,-0.712358,31.402641,09/03/2025 16:15
+D2FC855E-B5D0-A09A-6E52-5D9CB5AC8943,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,-0.712358,31.402641,09/03/2025 16:15
+D2FC855E-B5D0-A09A-6E52-5D9CB5AC8943,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,20,4,,,,,-0.712358,31.402641,09/03/2025 16:15
+62B4902D-0655-29C3-C9BF-C8DB4D1BC348,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,6,4,,,,,-0.7124428,31.4026772,09/03/2025 16:14
+62B4902D-0655-29C3-C9BF-C8DB4D1BC348,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,-0.7124428,31.4026772,09/03/2025 16:14
+62B4902D-0655-29C3-C9BF-C8DB4D1BC348,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,30,4,,,,,-0.7124428,31.4026772,09/03/2025 16:14
+7AB17591-13F5-E1CF-9579-81910890BF1A,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,6,4,,,,,-0.7124175,31.4026962,09/03/2025 16:13
+7AB17591-13F5-E1CF-9579-81910890BF1A,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,-0.7124175,31.4026962,09/03/2025 16:13
+7AB17591-13F5-E1CF-9579-81910890BF1A,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,30,4,,,,,-0.7124175,31.4026962,09/03/2025 16:13
+95FE217C-51FB-8A52-85B4-6467D8517D80,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,10,4,,,,,-0.7123992,31.4026922,09/03/2025 16:12
+95FE217C-51FB-8A52-85B4-6467D8517D80,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,10,4,,,,,-0.7123992,31.4026922,09/03/2025 16:12
+95FE217C-51FB-8A52-85B4-6467D8517D80,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,50,4,,,,,-0.7123992,31.4026922,09/03/2025 16:12
+B39EB811-0910-0F32-CC37-19271ED545F5,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,6,4,,,,,-0.7124687,31.40272,09/03/2025 16:10
+B39EB811-0910-0F32-CC37-19271ED545F5,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,-0.7124687,31.40272,09/03/2025 16:10
+B39EB811-0910-0F32-CC37-19271ED545F5,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,30,4,,,,,-0.7124687,31.40272,09/03/2025 16:10
+52D1AA51-B751-B233-DB80-E69105FC53B3,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Filters ,4,4,,,,,-0.7124244,31.4026694,09/03/2025 16:09
+52D1AA51-B751-B233-DB80-E69105FC53B3,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Watering can ,20,4,,,,,-0.7124244,31.4026694,09/03/2025 16:09
+52D1AA51-B751-B233-DB80-E69105FC53B3,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,-0.7124244,31.4026694,09/03/2025 16:09
+47C8F734-0E1E-8E60-93FD-9356675511DA,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Filters ,3,4,,,,,0.0056567,30.3632217,09/03/2025 13:45
+47C8F734-0E1E-8E60-93FD-9356675511DA,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0056567,30.3632217,09/03/2025 13:45
+87751895-34CC-3089-027B-094B8862FD15,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Filters ,5,4,,,,,0.0056567,30.3632217,09/03/2025 13:44
+87751895-34CC-3089-027B-094B8862FD15,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Mortar and Pestle ,5,4,,,,,0.0056567,30.3632217,09/03/2025 13:44
+40BE1004-80A9-E177-5116-3AAD0EF52121,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Filters ,7,4,,,,,0.00572,30.363235,09/03/2025 13:43
+40BE1004-80A9-E177-5116-3AAD0EF52121,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Mortar and Pestle ,7,4,,,,,0.00572,30.363235,09/03/2025 13:43
+C3562562-CFBF-6835-E781-EF65DF3C5EC2,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Filters ,6,4,,,,,0.0056717,30.363205,09/03/2025 13:42
+C3562562-CFBF-6835-E781-EF65DF3C5EC2,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,0.0056717,30.363205,09/03/2025 13:42
+055DB198-C088-0C13-1D7D-30FA853FEA9C,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Filters ,4,4,,,,,0.0056717,30.363205,09/03/2025 13:41
+055DB198-C088-0C13-1D7D-30FA853FEA9C,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,0.0056717,30.363205,09/03/2025 13:41
+F625F087-BB8F-6154-1B19-6EADC732620E,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Filters ,7,4,,,,,-0.7207524,31.4036505,07/03/2025 12:51
+F625F087-BB8F-6154-1B19-6EADC732620E,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Mortar and Pestle ,7,4,,,,,-0.7207524,31.4036505,07/03/2025 12:51
+F625F087-BB8F-6154-1B19-6EADC732620E,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Watering can ,35,4,,,,,-0.7207524,31.4036505,07/03/2025 12:51
+707C6917-AFF9-EA20-FE21-A0EA7A192AA2,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Filters ,9,4,,,,,-0.7133752,31.4047222,07/03/2025 12:49
+707C6917-AFF9-EA20-FE21-A0EA7A192AA2,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Mortar and Pestle ,9,4,,,,,-0.7133752,31.4047222,07/03/2025 12:49
+707C6917-AFF9-EA20-FE21-A0EA7A192AA2,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Watering can ,45,4,,,,,-0.7133752,31.4047222,07/03/2025 12:49
+A1BF9156-43EC-49E4-FDBE-B12E5FD0372C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Filters ,3,4,,,,,-0.7133917,31.4047105,07/03/2025 12:48
+A1BF9156-43EC-49E4-FDBE-B12E5FD0372C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,-0.7133917,31.4047105,07/03/2025 12:48
+A1BF9156-43EC-49E4-FDBE-B12E5FD0372C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Watering can ,15,4,,,,,-0.7133917,31.4047105,07/03/2025 12:48
+DF5D4EC9-5EE5-5C5C-7DA6-42DC18694314,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Filters ,3,4,,,,,0.0048833,30.3669283,07/03/2025 11:17
+DF5D4EC9-5EE5-5C5C-7DA6-42DC18694314,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0048833,30.3669283,07/03/2025 11:17
+27356518-0DBB-752E-312A-0F88098E4B1B,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Filters ,3,4,,,,,0.0048833,30.3669283,07/03/2025 11:16
+27356518-0DBB-752E-312A-0F88098E4B1B,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0048833,30.3669283,07/03/2025 11:16
+245634D4-A333-0940-65B1-4FD246F46701,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Filters ,3,4,,,,,0.0048667,30.3670767,07/03/2025 11:15
+245634D4-A333-0940-65B1-4FD246F46701,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0048667,30.3670767,07/03/2025 11:15
+FB759498-7E3A-763B-E6F2-507821CBB47B,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Filters ,3,4,,,,,0.0046885,30.3670099,07/03/2025 11:14
+FB759498-7E3A-763B-E6F2-507821CBB47B,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0046885,30.3670099,07/03/2025 11:14
+2126E069-6144-6F0F-B987-05ACBC890778,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Filters ,2,4,,,,,0.0049084,30.3668649,07/03/2025 11:14
+2126E069-6144-6F0F-B987-05ACBC890778,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Mortar and Pestle ,2,4,,,,,0.0049084,30.3668649,07/03/2025 11:14
+4FC7FDBF-3D3E-7DBD-5D08-DFCCEFBB0E63,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,5,4,,,,,0.0217817,30.3855708,07/03/2025 05:35
+4FC7FDBF-3D3E-7DBD-5D08-DFCCEFBB0E63,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,5,4,,,,,0.0217817,30.3855708,07/03/2025 05:35
+D030BBFD-F40E-5749-3800-C765D2EDEB9D,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,4,4,,,,,0.0217817,30.3855708,07/03/2025 05:33
+D030BBFD-F40E-5749-3800-C765D2EDEB9D,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,0.0217817,30.3855708,07/03/2025 05:33
+A9FCEDBC-8BD8-F9A4-7F2D-324418C8C071,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,5,4,,,,,0.0217817,30.3855708,07/03/2025 05:31
+A9FCEDBC-8BD8-F9A4-7F2D-324418C8C071,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,5,4,,,,,0.0217817,30.3855708,07/03/2025 05:31
+82C77699-5966-D1DF-3468-214E21F35304,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,4,4,,,,,0.0217817,30.3855708,07/03/2025 05:30
+82C77699-5966-D1DF-3468-214E21F35304,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,0.0217817,30.3855708,07/03/2025 05:30
+B2B574B2-C56C-B146-6B7D-3BB7E43A74AE,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,9,4,,,,,0.0217817,30.3855708,07/03/2025 05:27
+B2B574B2-C56C-B146-6B7D-3BB7E43A74AE,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,9,4,,,,,0.0217817,30.3855708,07/03/2025 05:27
+13D00A6C-B5DA-5433-4E82-D17A610DF2B9,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,5,4,,,,,0.0217825,30.3855693,07/03/2025 05:26
+13D00A6C-B5DA-5433-4E82-D17A610DF2B9,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,5,4,,,,,0.0217825,30.3855693,07/03/2025 05:26
+4D7D0219-C241-A6CB-33E9-47A2AA196A09,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,6,4,,,,,0.0217812,30.3855732,07/03/2025 05:25
+4D7D0219-C241-A6CB-33E9-47A2AA196A09,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,6,4,,,,,0.0217812,30.3855732,07/03/2025 05:25
+1DA3C0F8-2E74-4581-A152-2A31272AEEB4,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Filters ,4,4,,,,,0.0217813,30.3855703,07/03/2025 05:23
+1DA3C0F8-2E74-4581-A152-2A31272AEEB4,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Mortar and Pestle ,4,4,,,,,0.0217813,30.3855703,07/03/2025 05:23
+8AAD36F1-790C-1342-8326-D00A088E9B49,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,3,4,,,,,0.0217888,30.3855654,06/03/2025 14:46
+8AAD36F1-790C-1342-8326-D00A088E9B49,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,6,4,,,,,0.0217888,30.3855654,06/03/2025 14:46
+8AAD36F1-790C-1342-8326-D00A088E9B49,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0217888,30.3855654,06/03/2025 14:46
+8AAD36F1-790C-1342-8326-D00A088E9B49,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0217888,30.3855654,06/03/2025 14:46
+8AAD36F1-790C-1342-8326-D00A088E9B49,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,15,4,,,,,0.0217888,30.3855654,06/03/2025 14:46
+2B0487B0-A499-7388-A3A3-5062C18EA5CE,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,3,4,,,,,0.0217817,30.3855718,06/03/2025 14:44
+2B0487B0-A499-7388-A3A3-5062C18EA5CE,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,6,4,,,,,0.0217817,30.3855718,06/03/2025 14:44
+2B0487B0-A499-7388-A3A3-5062C18EA5CE,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0217817,30.3855718,06/03/2025 14:44
+2B0487B0-A499-7388-A3A3-5062C18EA5CE,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0217817,30.3855718,06/03/2025 14:44
+2B0487B0-A499-7388-A3A3-5062C18EA5CE,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,15,4,,,,,0.0217817,30.3855718,06/03/2025 14:44
+584C71C0-8146-E98A-3281-610062E53CA9,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,3,4,,,,,0.0222214,30.3854711,06/03/2025 14:42
+584C71C0-8146-E98A-3281-610062E53CA9,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,6,4,,,,,0.0222214,30.3854711,06/03/2025 14:42
+584C71C0-8146-E98A-3281-610062E53CA9,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0222214,30.3854711,06/03/2025 14:42
+584C71C0-8146-E98A-3281-610062E53CA9,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,15,4,,,,,0.0222214,30.3854711,06/03/2025 14:42
+584C71C0-8146-E98A-3281-610062E53CA9,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0222214,30.3854711,06/03/2025 14:42
+8037574B-0AC8-4E95-0DE4-44A1E8C0A0D8,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,2,4,,,,,0.0217806,30.3855715,06/03/2025 14:37
+8037574B-0AC8-4E95-0DE4-44A1E8C0A0D8,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,2,4,,,,,0.0217806,30.3855715,06/03/2025 14:37
+8037574B-0AC8-4E95-0DE4-44A1E8C0A0D8,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,20,4,,,,,0.0217806,30.3855715,06/03/2025 14:37
+8037574B-0AC8-4E95-0DE4-44A1E8C0A0D8,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,10,4,,,,,0.0217806,30.3855715,06/03/2025 14:37
+8037574B-0AC8-4E95-0DE4-44A1E8C0A0D8,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,4,4,,,,,0.0217806,30.3855715,06/03/2025 14:37
+3926E982-68C6-FA1A-D61C-A503065EB604,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,3,4,,,,,0.021783,30.385569,06/03/2025 14:35
+3926E982-68C6-FA1A-D61C-A503065EB604,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,6,4,,,,,0.021783,30.385569,06/03/2025 14:35
+3926E982-68C6-FA1A-D61C-A503065EB604,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.021783,30.385569,06/03/2025 14:35
+3926E982-68C6-FA1A-D61C-A503065EB604,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,15,4,,,,,0.021783,30.385569,06/03/2025 14:35
+3926E982-68C6-FA1A-D61C-A503065EB604,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.021783,30.385569,06/03/2025 14:35
+E748DC30-9A50-5504-77F4-106E1C5015CE,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,3,4,,,,,0.0222231,30.3854709,06/03/2025 14:32
+E748DC30-9A50-5504-77F4-106E1C5015CE,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,6,4,,,,,0.0222231,30.3854709,06/03/2025 14:32
+E748DC30-9A50-5504-77F4-106E1C5015CE,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,3,4,,,,,0.0222231,30.3854709,06/03/2025 14:32
+E748DC30-9A50-5504-77F4-106E1C5015CE,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0222231,30.3854709,06/03/2025 14:32
+E748DC30-9A50-5504-77F4-106E1C5015CE,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,15,4,,,,,0.0222231,30.3854709,06/03/2025 14:32
+36CD4C7E-665F-D9A2-CF6B-0C3BABF304F8,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,2,4,,,,,0.021802,30.3855613,06/03/2025 14:29
+36CD4C7E-665F-D9A2-CF6B-0C3BABF304F8,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,4,4,,,,,0.021802,30.3855613,06/03/2025 14:29
+36CD4C7E-665F-D9A2-CF6B-0C3BABF304F8,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,2,4,,,,,0.021802,30.3855613,06/03/2025 14:29
+36CD4C7E-665F-D9A2-CF6B-0C3BABF304F8,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,20,4,,,,,0.021802,30.3855613,06/03/2025 14:29
+36CD4C7E-665F-D9A2-CF6B-0C3BABF304F8,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,10,4,,,,,0.021802,30.3855613,06/03/2025 14:29
+0811AD33-F1DE-F7EE-7978-DE70C992D9B6,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Filters ,2,4,,,,,0.0222231,30.3854709,06/03/2025 14:26
+0811AD33-F1DE-F7EE-7978-DE70C992D9B6,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Hoes ,4,4,,,,,0.0222231,30.3854709,06/03/2025 14:26
+0811AD33-F1DE-F7EE-7978-DE70C992D9B6,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Mortar and Pestle ,2,4,,,,,0.0222231,30.3854709,06/03/2025 14:26
+0811AD33-F1DE-F7EE-7978-DE70C992D9B6,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Tarpaulin ,20,4,,,,,0.0222231,30.3854709,06/03/2025 14:26
+0811AD33-F1DE-F7EE-7978-DE70C992D9B6,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Watering can ,10,4,,,,,0.0222231,30.3854709,06/03/2025 14:26
+AFA51D34-9E35-4AF1-4707-BFDC7D0E4EA4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Tarpaulin ,40,4,,,,,0.0057417,30.363255,06/03/2025 11:23
+AFA51D34-9E35-4AF1-4707-BFDC7D0E4EA4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Watering can ,20,4,,,,,0.0057417,30.363255,06/03/2025 11:23
+E39CCF7A-0FAE-0CDA-9A01-3E98487FC7DF,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Watering can ,25,4,,,,,0.0218498,30.3855594,06/03/2025 11:06
+E39CCF7A-0FAE-0CDA-9A01-3E98487FC7DF,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Tarpaulin ,50,4,,,,,0.0218498,30.3855594,06/03/2025 11:06
+2AAD57CE-4C79-3171-0513-5209DB39A783,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Watering can ,35,4,,,,,0.0218366,30.3855704,06/03/2025 11:02
+2AAD57CE-4C79-3171-0513-5209DB39A783,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Tarpaulin ,70,4,,,,,0.0218366,30.3855704,06/03/2025 11:02
+780FD4E6-D178-4E45-053F-6B9B88B870A1,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0223883,30.385375,06/03/2025 10:58
+780FD4E6-D178-4E45-053F-6B9B88B870A1,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Watering can ,15,4,,,,,0.0223883,30.385375,06/03/2025 10:58
+DCA7E26E-1E50-0B27-E26A-E05FEE82FBB2,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Tarpaulin ,60,4,,,,,0.0222033,30.385395,06/03/2025 10:57
+DCA7E26E-1E50-0B27-E26A-E05FEE82FBB2,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Watering can ,30,4,,,,,0.0222033,30.385395,06/03/2025 10:57
+E63A086B-98A4-8B05-2FE4-E9457442DC87,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Watering can ,15,4,,,,,0.0049912,30.3668016,03/03/2025 16:40
+E63A086B-98A4-8B05-2FE4-E9457442DC87,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0049912,30.3668016,03/03/2025 16:40
+F5C57F04-75B8-B7DA-CD88-B83D4E79228C,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Watering can ,15,4,,,,,0.00468,30.36728,03/03/2025 16:39
+F5C57F04-75B8-B7DA-CD88-B83D4E79228C,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.00468,30.36728,03/03/2025 16:39
+B035DB53-C285-ADE2-3101-E92F45BD7245,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Watering can ,15,4,,,,,0.0049367,30.366885,03/03/2025 16:37
+B035DB53-C285-ADE2-3101-E92F45BD7245,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0049367,30.366885,03/03/2025 16:37
+43B411BD-7B78-9C14-3278-B7A3D3E59A1F,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Tarpaulin ,30,4,,,,,0.0049367,30.366885,03/03/2025 16:36
+43B411BD-7B78-9C14-3278-B7A3D3E59A1F,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Watering can ,15,4,,,,,0.0049367,30.366885,03/03/2025 16:36
+E06E902A-C3C6-EC1D-CAE0-35A12C18648F,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Tarpaulin ,20,4,,,,,0.0049367,30.366885,03/03/2025 16:35
+E06E902A-C3C6-EC1D-CAE0-35A12C18648F,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Watering can ,10,4,,,,,0.0049367,30.366885,03/03/2025 16:35
+D8ECC6D6-88D1-1BB5-A4A1-759F7D10A9C6,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,25,4,,,,,0.0220807,30.3850115,03/03/2025 10:31
+D8ECC6D6-88D1-1BB5-A4A1-759F7D10A9C6,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0220807,30.3850115,03/03/2025 10:31
+1B56EE23-0BCB-8D2A-874B-7FE29376B8EB,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,20,4,,,,,0.0220614,30.3854058,03/03/2025 10:29
+1B56EE23-0BCB-8D2A-874B-7FE29376B8EB,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,15,4,,,,,0.0220614,30.3854058,03/03/2025 10:29
+AA584E40-4D3B-C8C4-40C1-0BE1EBD9ECDC,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,25,4,,,,,0.0199938,30.3750759,03/03/2025 10:27
+AA584E40-4D3B-C8C4-40C1-0BE1EBD9ECDC,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0199938,30.3750759,03/03/2025 10:27
+A9FEB956-EBC0-300E-1C67-0800E7E4E803,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,20,4,,,,,0.0199938,30.3750759,03/03/2025 10:24
+A9FEB956-EBC0-300E-1C67-0800E7E4E803,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,15,4,,,,,0.0199938,30.3750759,03/03/2025 10:24
+C419BACF-931C-B05C-1253-4879F2543464,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,45,4,,,,,0.0199938,30.3750759,03/03/2025 10:21
+C419BACF-931C-B05C-1253-4879F2543464,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,59,4,,,,,0.0199938,30.3750759,03/03/2025 10:21
+0E3FC00D-FCBE-D2A5-C8A6-7A5EB3DCC7DC,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,25,4,,,,,0.022006,30.3772373,03/03/2025 10:11
+0E3FC00D-FCBE-D2A5-C8A6-7A5EB3DCC7DC,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.022006,30.3772373,03/03/2025 10:11
+8AE7DD6F-CF78-8A4E-39A9-F32D275F3583,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,30,4,,,,,0.0199938,30.3750759,03/03/2025 09:55
+8AE7DD6F-CF78-8A4E-39A9-F32D275F3583,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,35,4,,,,,0.0199938,30.3750759,03/03/2025 09:55
+8B910B44-AEB7-BCE9-C39F-D9CE08D6AA19,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,15,4,,,,,0.0219435,30.3856654,03/03/2025 09:20
+8B910B44-AEB7-BCE9-C39F-D9CE08D6AA19,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Watering can ,20,4,,,,,0.0219435,30.3856654,03/03/2025 09:20
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Gloves ,6,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Hoes ,6,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Knapsack Sprayer ,3,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Pick Axe ,3,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Rope ,1,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Secateurs ,15,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+0E483E5D-B57F-A336-7DFA-059DAC7A5209,South West,Kitagwenda,Bujumiro,Nyabwina_Buhanda,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Spade ,6,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Compound Sacks ,5,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Forked Hoe ,5,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Gloves ,10,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Hoes ,10,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Jerrycans ,10,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Knapsack Sprayer ,5,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Pick Axe ,5,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Plastic Drums ,5,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Rope ,1,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Secateurs ,25,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+B92413AE-6EFE-EEF7-DF3D-7BA783A82152,South West,Kitagwenda,Bujumiro,Kyarubingo,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Spade ,10,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Compound Sacks ,7,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Forked Hoe ,7,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Gloves ,14,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Hoes ,14,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Jerrycans ,14,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Knapsack Sprayer ,7,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Pick Axe ,7,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Plastic Drums ,7,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Secateurs ,35,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Spade ,14,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+C587472B-4A8E-1B68-50FF-CD536B3FB399,South West,Kitagwenda,Bujumiro,Kanyamburara,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Rope ,1,4,,,,,0.0056767,30.363185,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Compound Sacks ,6,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Forked Hoe ,6,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Gloves ,12,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Hoes ,12,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Jerrycans ,12,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Knapsack Sprayer ,6,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Rope ,1,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Secateurs ,30,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Spade ,12,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+AD3FD86D-FC01-4A38-DCC6-8755A239043F,South West,Kitagwenda,Bujumiro,Bujumiro_A,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Plastic Drums ,6,4,,,,,0.0057133,30.363235,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Compound Sacks ,4,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Forked Hoe ,4,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Gloves ,8,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Hoes ,8,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Jerrycans ,8,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Knapsack Sprayer ,4,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Pick Axe ,4,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Plastic Drums ,4,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Rope ,1,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Spade ,8,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+691BD7C9-87EE-4CC3-A754-82672604B1C4,South West,Kitagwenda,Bujumiro,Bujumiro_B,2025,A,Joshua,joshua.mwesigwa@raisingthevillage.org,Secateurs ,20,4,,,,,0.0057,30.3631983,19/02/2025 14:11
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,6,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,15,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,6,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,6,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+A19A4EBA-D752-A7EA-4739-084816343396,South West,Kitagwenda,Nganiko,Nganiko_Central,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0555833,30.408175,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,2,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,4,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,4,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,2,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,4,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,10,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,4,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,4,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+E2F37B13-CF7D-2B55-C94B-7E84C0ABAEFB,South West,Kitagwenda,Nganiko,Kemihoko_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,2,4,,,,,0.0555317,30.40817,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,6,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,6,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,6,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,15,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,6,4,,,,,0.055525,30.40813,12/02/2025 09:07
+D088B654-AEC0-FCA1-22E3-C4BA3DF8C987,South West,Kitagwenda,Nganiko,Nganiko_TC,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,6,4,,,,,0.055525,30.40813,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,6,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,6,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,6,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,15,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,6,4,,,,,0.055535,30.408175,12/02/2025 09:07
+DADC2C77-B836-1272-2E0D-53E8C7BA512C,South West,Kitagwenda,Nganiko,Nganiko_1,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,6,4,,,,,0.055535,30.408175,12/02/2025 09:07
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,6,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,15,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,6,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+FB684C23-C2BC-C489-8F12-B56F6377E6E7,South West,Kitagwenda,Nganiko,Kemihoko_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,6,4,,,,,0.0220947,30.3855662,12/02/2025 05:34
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,6,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,15,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,6,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+6163EBD4-346D-3B22-F212-EA3B87C8FCD7,South West,Kitagwenda,Nganiko,Kahenda,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,6,4,,,,,0.0220952,30.3855693,12/02/2025 05:26
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,2,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,2,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,4,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,4,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,4,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,2,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,10,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,4,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+71268257-3FD2-3D9E-D731-999BE7524DD6,South West,Kitagwenda,Nganiko,Kagorogoro_B,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,4,4,,,,,0.0220964,30.3855695,12/02/2025 05:20
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Compound Sacks ,2,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Forked Hoe ,2,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Gloves ,4,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Jerrycans ,4,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Plastic Drums ,2,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Rope ,2,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Secateurs ,10,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spade ,4,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Spray Pumps ,4,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+5CAB2D2F-DC56-BD2A-DBBA-F10F52EC26BB,South West,Kitagwenda,Nganiko,Kagorogoro_A,2025,A,Nuwagaba,nelson@raisingthevillage.org,Pick Axe ,4,4,,,,,0.0220955,30.3855702,12/02/2025 05:10
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Gloves ,6,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Hoes ,6,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Knapsack Sprayer ,6,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Secateurs ,15,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+09795A9F-A75C-4113-F60A-CD125A461243,South West,Kitagwenda,Muyenga,Muyenga_TC,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Spade ,6,4,,,,,0.0220914,30.3855612,07/02/2025 15:08
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Compound Sacks ,2,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Forked Hoe ,2,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Gloves ,4,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Hoes ,4,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Jerrycans ,4,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Knapsack Sprayer ,2,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Pick Axe ,4,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Plastic Drums ,2,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Secateurs ,10,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+E6AB40E7-2BA0-4D35-4029-C3AEF6FC1BD3,South West,Kitagwenda,Muyenga,Muyenga_Central,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Spade ,4,4,,,,,0.022097,30.3855656,07/02/2025 15:04
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Gloves ,6,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Hoes ,6,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Knapsack Sprayer ,6,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Secateurs ,15,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+3A417859-162D-2E05-921E-566F11DDA0C0,South West,Kitagwenda,Muyenga,Zanzibar,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Spade ,6,4,,,,,0.0223083,30.385895,07/02/2025 15:01
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Compound Sacks ,3,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Gloves ,6,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Hoes ,6,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Knapsack Sprayer ,6,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Secateurs ,15,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1395F1B2-23EC-5094-D0EC-C00BF4B8D52E,South West,Kitagwenda,Muyenga,Nganiko_2,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Spade ,6,4,,,,,0.0220888,30.3855668,07/02/2025 14:21
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Compound Sacks ,1,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Forked Hoe ,3,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Gloves ,6,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Hoes ,6,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Jerrycans ,6,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Knapsack Sprayer ,6,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Pick Axe ,6,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Plastic Drums ,3,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Rope ,1,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Secateurs ,15,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+1BF27495-BDE8-BA80-3D65-285B12D876F9,South West,Kitagwenda,Muyenga,Nganiko_3,2025,A,Irene,irene.mwigarire@raisingthevillage.org,Spade ,6,4,,,,,0.0220943,30.3855706,07/02/2025 14:17
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,8,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,4,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,4,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,8,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,4,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Knapsack Sprayer ,4,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,4,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+907B9AB8-86C3-5DEE-DDD7-20FADB36DC19,Central,Rakai,Kasensero,Kyaluwakula,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,8,4,,,,,-0.7124513,31.4026374,03/02/2025 16:08
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,12,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,24,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,12,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,12,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,24,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Knapsack Sprayer ,12,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,24,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+A924685E-9EDC-8A32-7BA0-732090BC90E2,Central,Rakai,Kasensero,Kyengeza_Rakai,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,12,4,,,,,-0.7124083,31.4026017,03/02/2025 15:58
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,12,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,6,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,12,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,12,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,6,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,12,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,6,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,12,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,12,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,30,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+C63AF3C8-6B3C-7CA2-9689-77412ADB675C,South West,Kitagwenda,Nyakacwamba,Rwengwe_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0057213,30.3633043,01/02/2025 18:52
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,8,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,4,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,8,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,8,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,4,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,8,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,4,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,8,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,8,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,20,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+89EEB30F-5750-2549-B4C1-DA8E4B463FF0,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0057675,30.3632271,01/02/2025 18:46
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,8,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,4,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,8,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,8,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,4,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,8,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,4,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,8,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,8,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,20,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+E376ACC2-DF0A-64C5-2C09-98D1C5144CC0,South West,Kitagwenda,Nyakacwamba,Mpanga_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.005725,30.3630972,01/02/2025 18:42
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+AF8AD0CD-AA85-D4DA-A4AF-0A919EA1718A,South West,Kitagwenda,Nyakacwamba,Nyakacwamba_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0064122,30.3689516,01/02/2025 18:38
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,18,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,9,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,18,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,9,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,18,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,9,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,31,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,18,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,18,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,45,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+BEA7CD2F-0093-0D5A-55E2-2916707F8713,South West,Kitagwenda,Nyakacwamba,Karubuguma_2,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,18,4,,,,,0.0064122,30.3689516,01/02/2025 18:33
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,8,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,4,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,8,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,8,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,4,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,8,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,4,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,8,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,8,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,20,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+2B4218DF-E02C-1F8D-5536-486F5AEA3D7D,South West,Kitagwenda,Nyakacwamba,Karubuguma_1,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0064122,30.3689516,01/02/2025 18:22
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+EC6159C2-2395-0951-0550-FA931F591441,South West,Kitagwenda,Nyakacwamba,Karere_Nyakacwamba,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0064122,30.3689516,01/02/2025 18:15
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Hoes ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Forked Hoe ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Pick Axe ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Spade ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Plastic Drums ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Knapsack Sprayer ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Compound Sacks ,5,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Tarpaulin ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Jerrycans ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Gloves ,10,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Secateurs ,25,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+B79789E4-C663-7246-E919-7603893FAAFF,South West,Kitagwenda,Nyakacwamba,Kapapari,2025,A,Charles,charles.tweteise@raisingthevillage.org,Rope ,0,4,,,,,0.0064122,30.3689516,01/02/2025 18:07
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Hoes ,8,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Forked Hoe ,4,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Pick Axe ,4,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Spade ,8,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Plastic Drums ,4,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Knapsack Sprayer ,4,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Jerrycans ,8,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+F384360E-FB69-35FD-40AD-8F59B8FB6553,Central,Rakai,Kanoni,Kamuli,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Compound Sacks ,4,4,,,,,-0.7102137,31.4051447,31/01/2025 10:50
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Hoes ,8,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Forked Hoe ,4,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Pick Axe ,4,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Spade ,8,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Plastic Drums ,4,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Knapsack Sprayer ,4,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Compound Sacks ,4,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+8F6491F3-553F-C071-1384-351D40B9E0F8,Central,Rakai,Kanoni,Mpaama,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Jerrycans ,8,4,,,,,-0.7102142,31.4051448,30/01/2025 15:25
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Hoes ,10,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Forked Hoe ,5,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Pick Axe ,5,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Spade ,10,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Plastic Drums ,5,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Knapsack Sprayer ,5,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Compound Sacks ,5,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+5D944B4E-4B79-B229-2087-A9AE0C795191,Central,Rakai,Kanoni,Kikakata,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Jerrycans ,10,4,,,,,-0.7102124,31.4051453,30/01/2025 15:24
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Hoes ,16,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Forked Hoe ,8,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Pick Axe ,8,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Spade ,16,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Plastic Drums ,8,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Knapsack Sprayer ,8,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Compound Sacks ,8,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+48BA0B28-9750-4560-E6BC-9F598654C7B2,Central,Rakai,Kanoni,Kanoni_Rakai,2025,A,Jefferson,jefferson.tindimwebwa@raisingthevillage.org,Jerrycans ,16,4,,,,,-0.7102146,31.4051519,30/01/2025 15:14
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,12,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,6,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,12,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,6,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,6,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,6,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,12,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7DDCDCCE-8246-0CDA-0CC1-3689A5AE4F73,Central,Rakai,Kasensero,Kiwaguzi_A,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,6,4,,,,,-0.710209,31.4051508,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,12,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,6,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,12,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,6,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,6,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,6,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,12,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+7E3AE28F-E8EF-8F99-7D22-AC4FDFAD47C0,Central,Rakai,Kasensero,Kiwaguzi_B,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,6,4,,,,,-0.7102093,31.4051509,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,20,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,10,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,10,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,20,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,10,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,10,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,10,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+826A8392-E591-7FFA-E035-A52B976E92C0,Central,Rakai,Kasensero,Kitonezi,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,20,4,,,,,-0.7102093,31.4051511,30/01/2025 14:38
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,8,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,4,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,8,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,4,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,4,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,8,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,4,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+1C21D0A7-7192-1A6F-973C-9F8F32B06330,Central,Rakai,Kasensero,Nabyala,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,4,4,,,,,-0.7102129,31.4051472,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,12,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,6,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,12,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,6,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,6,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,12,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,6,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+022E5AFB-776D-FD54-6B9B-98C917F920E2,Central,Rakai,Kasensero,Nakitokolo,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,6,4,,,,,-0.7102163,31.4051448,30/01/2025 14:37
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Hoes ,6,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Forked Hoe ,3,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Pick Axe ,3,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Spade ,6,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Plastic Drums ,3,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Spray Pumps ,3,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Compound Sacks ,3,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+B10E7960-36E3-DC3C-CCF8-47F608DCFD5C,Central,Rakai,Kyamakanaga,Kyamakanaga_B,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Jerrycans ,6,4,,,,,-0.5463196,31.3221727,30/01/2025 11:41
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Hoes ,18,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Forked Hoe ,9,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Pick Axe ,9,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Spade ,18,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Plastic Drums ,9,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Spray Pumps ,9,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Compound Sacks ,9,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+1E280353-A22E-EDA9-8ED9-172F4756F63C,Central,Rakai,Kyamakanaga,Nnongo_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Jerrycans ,18,4,,,,,-0.5727555,31.2697813,30/01/2025 11:05
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,8,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,4,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,4,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,8,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,4,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,4,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,4,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+B7F25697-024A-4ABE-8D0D-A47A10AB477D,Central,Rakai,Kasensero,Kammengo,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,8,4,,,,,-0.6807783,31.4654483,30/01/2025 10:25
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Hoes ,14,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Forked Hoe ,7,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Pick Axe ,7,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Spade ,14,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Plastic Drums ,7,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Spray Pumps ,7,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Jerrycans ,14,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Rope ,1,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+54346E5D-B87E-1E42-26E8-3F57E5770B23,Central,Rakai,Kyamakanaga,Kyamakanaga_A,2025,A,Samuel,samuel.kitenda@raisingthevillage.org,Compound Sacks ,7,4,,,,,-0.5888288,31.3271773,30/01/2025 10:17
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,12,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,6,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,6,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,12,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,6,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,6,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,6,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+BC79C663-84F6-C9E7-85DB-7A3AB6905F6E,Central,Rakai,Kasensero,Kisimbanyiriri,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,12,4,,,,,-0.68067,31.4654567,30/01/2025 09:56
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Hoes ,12,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Forked Hoe ,6,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Pick Axe ,6,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Spade ,12,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Plastic Drums ,6,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Spray Pumps ,6,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Compound Sacks ,6,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39
+AFB832AC-058B-17EA-88D5-1F5F075CE153,Central,Rakai,Kasensero,Mikunyu,2025,A,Eric,eric.ndago@raisingthevillage.org,Jerrycans ,12,4,,,,,-0.6807083,31.4653833,30/01/2025 09:39

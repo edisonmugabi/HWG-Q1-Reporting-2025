@@ -1,28 +1,28 @@
-district_name,cohort,cycle,type,No_of_HH_attended_training,Total_population,percentage_attendance,,
-Kitagwenda,2024,A,Coffee Value Addition Training,1219,1346,0.90564636,,
-Kitagwenda,2024,B,HOR 3,1957,2057,0.951385513,,
-Kitagwenda,2025,A,CATs / Agriculture Champions,126,103,1.223300971,,
-Kitagwenda,2025,A,Coffee Champions - ToT 1,104,103,1.009708738,,
-Kitagwenda,2025,A,HHT 1 - Day 2 - VSLAs,1940,2014,0.9632572,,0.960112546
-Kitagwenda,2025,A,HHT 1 - Mindset and behavioral change,1933,2014,0.959781529,,
-Kitagwenda,2025,A,HHT 2 - Financial Literacy and VSLA and and Business Enterprise Selection,1928,2014,0.957298908,,
-Kitagwenda,2025,A,HOR 1,1908,2014,0.947368421,,
-Kitagwenda,2025,A,Village Champions,26,26,1,,
-Kitagwenda,2025,A,WASH - Training 1,1937,2014,0.961767627,,
-Kitagwenda,2025,A,WASH Champions Training,98,103,0.951456311,,
-Kitagwenda,2025,A,Agriculture 1 - Organics Farming & Keyhole gardening,1939,2014,0.962760675,,
-Kitagwenda,2025,A,Agriculture 2 - Preparation & Preplanting (Day 1),1931,2014,0.958788481,,
-Kitagwenda,2025,A,Agriculture 2 - Preparation & Preplanting (Day 2),1924,2014,0.95531281,,
-Rakai,2024,B,HOR 3,4608,4906,0.939258051,,
-Rakai,2025,A,CATs / Agriculture Champions,109,104,1.048076923,,
-Rakai,2025,A,Coffee Champions - ToT 1,177,104,1.701923077,,
-Rakai,2025,A,HHT 1 - Day 2 - VSLAs,1951,2087,0.934834691,,0.930362562
-Rakai,2025,A,HHT 1 - Mindset and behavioral change,1938,2087,0.928605654,,
-Rakai,2025,A,HHT 2 - Financial Literacy and VSLA and and Business Enterprise Selection,1936,2087,0.927647341,,
-Rakai,2025,A,HOR 1,1939,2087,0.929084811,,
-Rakai,2025,A,Village Champions,17,17,1,,
-Rakai,2025,A,WASH - Training 1,1935,2087,0.927168184,,
-Rakai,2025,A,WASH Champions Training,107,104,1.028846154,,
-Rakai,2025,A,Agriculture 1 - Organics Farming & Keyhole gardening,1940,2087,0.929563967,,
-Rakai,2025,A,Agriculture 2 - Preparation & Preplanting (Day 1),1939,2087,0.929084811,,
-Rakai,2025,A,Agriculture 2 - Preparation & Preplanting (Day 2),1912,2087,0.91614758,,
+district_name,cohort,cycle,type,No_of_HH_attended_training,Total_population,percentage_attendance
+Kitagwenda,2024,A,Coffee Value Addition Training,1219,1346.0,0.9056463595839525
+Kitagwenda,2024,B,HOR 3,1957,2057.0,0.9513855128828392
+Kitagwenda,2025,A,CATs / Agriculture Champions,126,103.0,1.2233009708737863
+Kitagwenda,2025,A,Coffee Champions - ToT 1,104,103.0,1.0097087378640777
+Kitagwenda,2025,A,HHT 1 - Day 2 - VSLAs,1940,2014.0,0.9632571996027806
+Kitagwenda,2025,A,HHT 1 - Mindset and behavioral change,1933,2014.0,0.9597815292949354
+Kitagwenda,2025,A,HHT 2 - Financial Literacy and VSLA and and Business Enterprise Selection,1928,2014.0,0.9572989076464746
+Kitagwenda,2025,A,HOR 1,1908,2014.0,0.9473684210526316
+Kitagwenda,2025,A,Village Champions,26,26.0,1.0
+Kitagwenda,2025,A,WASH - Training 1,1937,2014.0,0.961767626613704
+Kitagwenda,2025,A,WASH Champions Training,98,103.0,0.9514563106796116
+Kitagwenda,2025,A,Agriculture 1 - Organics Farming & Keyhole gardening,1939,2014.0,0.9627606752730884
+Kitagwenda,2025,A,Agriculture 2 - Preparation & Preplanting (Day 1),1931,2014.0,0.9587884806355512
+Kitagwenda,2025,A,Agriculture 2 - Preparation & Preplanting (Day 2),1924,2014.0,0.955312810327706
+Rakai,2024,B,HOR 3,4608,4906.0,0.9392580513656746
+Rakai,2025,A,CATs / Agriculture Champions,109,104.0,1.0480769230769231
+Rakai,2025,A,Coffee Champions - ToT 1,177,104.0,1.7019230769230769
+Rakai,2025,A,HHT 1 - Day 2 - VSLAs,1951,2087.0,0.9348346909439388
+Rakai,2025,A,HHT 1 - Mindset and behavioral change,1938,2087.0,0.928605654048874
+Rakai,2025,A,HHT 2 - Financial Literacy and VSLA and and Business Enterprise Selection,1936,2087.0,0.9276473406804024
+Rakai,2025,A,HOR 1,1939,2087.0,0.9290848107331098
+Rakai,2025,A,Village Champions,17,17.0,1.0
+Rakai,2025,A,WASH - Training 1,1935,2087.0,0.9271681839961669
+Rakai,2025,A,WASH Champions Training,107,104.0,1.0288461538461535
+Rakai,2025,A,Agriculture 1 - Organics Farming & Keyhole gardening,1940,2087.0,0.9295639674173456
+Rakai,2025,A,Agriculture 2 - Preparation & Preplanting (Day 1),1939,2087.0,0.9290848107331098
+Rakai,2025,A,Agriculture 2 - Preparation & Preplanting (Day 2),1912,2087.0,0.9161475802587448
